@@ -4,7 +4,7 @@ This repository contains the group projects undertaken during the course "Data M
 ### 1st Assignment - link prediction, friends' recommndation engine
 1. [Assignment Description](link_prediction/Proj1_Link_Prediction.pdf) 
 2. [Jupyter Notebook](lin_prediction/linkPrediction_Notebook.html)
-3. [Report](lin_prediction/linPrediction_Report.pdf)
+3. [Report](lin_prediction/linkPrediction_Report.pdf)
 
 
 

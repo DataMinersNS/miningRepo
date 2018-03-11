@@ -1,4 +1,4 @@
-# TEArepo
+# miningRepo
 This repository contains the group projects undertaken during the course "Data Mining Techniques" taught by Prof. Y.Kotidis in the context of Msc. in Data Science at Athens University of Economics and Business.
 
 ### 1st Assignment - link prediction, friends' recommndation engine

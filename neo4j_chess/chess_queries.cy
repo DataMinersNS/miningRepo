@@ -3,7 +3,7 @@
 // In how many games the position with FEN: r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R is found
 // and in what percentage of these white won?
 
-MATCH (p:Position)-[r:TO]-(p2:Position {fen:'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'}) with distinct r.GameNumber as gNumber
+MATCH ()-[r:TO]-(p2:Position {fen:'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'}) with distinct r.GameNumber as gNumber
 OPTIONAL MATCH (g1:Game {number: gNumber}) 
 OPTIONAL MATCH (g2:Game {number: gNumber, result: 'White'}) 
 RETURN COUNT(g1) as total_games, toFloat(COUNT(g2))/COUNT(g1) as white_percentage;
@@ -12,7 +12,7 @@ RETURN COUNT(g1) as total_games, toFloat(COUNT(g2))/COUNT(g1) as white_percentag
 // In the games where the position with FEN: r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R  is found, 
 // in how many the result was draw and in how many white won or black won?
 
-MATCH (p:Position)-[r:TO]-(p2:Position {fen:'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'}) with distinct r.GameNumber as gNumber 
+MATCH ()-[r:TO]-(p2:Position {fen:'r1bqkbnrpppp1ppp2n51B2p34P35N2PPPP1PPPRNBQK2R'}) with distinct r.GameNumber as gNumber 
 OPTIONAL MATCH(g_white:Game {result:"White", number:gNumber}) with g_white as white_wins, gNumber 
 OPTIONAL MATCH(g_black:Game {result:"Black", number:gNumber}) with g_black as black_wins, gNumber, white_wins 
 OPTIONAL MATCH(g_draw:Game {result:"Draw", number:gNumber}) with g_draw as draws, white_wins,black_wins 

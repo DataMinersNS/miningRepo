@@ -6,5 +6,9 @@ This repository contains the group projects undertaken during the course "Data M
 2. [Jupyter Notebook](link_prediction/linkPredictionNotebook.html)
 3. [Report](link_prediction/linkPrediction_Report.pdf)
 
+### 2nd Assignment - neo4j, graph database, chess
+1. [Assignment Description](neo4j_chess/Proj1_Neo4j_Chess.pdf) 
+2. [Report](neo4j_chess/neo4jChess_Report.pdf)
+
 
 

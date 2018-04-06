@@ -1,0 +1,685 @@
+White,Black,Date,HalfMoves,Moves,Result,WhiteElo,BlackElo,GameNumber,Event,Site,EventDate,Round,ECO,Opening
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.01.11,92,46,Black,0,0,1,World Championship 1st,USA,1886.01.11,1,D11,Queen's Gambit Declined Slav
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.01.13,92,46,Black,0,0,2,World Championship 1st,USA,1886.01.11,2,C47,Four Knights
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.01.15,93,46,White,0,0,3,World Championship 1st,USA,1886.01.11,3,D10,Queen's Gambit Declined Slav
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.01.18,78,39,Black,0,0,4,World Championship 1st,USA,1886.01.11,4,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.01.20,63,31,White,0,0,5,World Championship 1st,USA,1886.01.11,5,D10,Queen's Gambit Declined Slav
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.02.03,121,60,White,0,0,6,World Championship 1st,USA,1886.01.11,6,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.02.05,70,35,Black,0,0,7,World Championship 1st,USA,1886.01.11,7,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.02.08,43,21,Draw,0,0,8,World Championship 1st,USA,1886.01.11,8,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.02.10,76,38,Black,0,0,9,World Championship 1st,USA,1886.01.11,9,D26,Queen's Gambit Accepted
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.02.26,42,21,Draw,0,0,10,World Championship 1st,USA,1886.01.11,10,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.03.01,84,42,Black,0,0,11,World Championship 1st,USA,1886.01.11,11,C49,Four Knights
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.03.03,87,43,White,0,0,12,World Championship 1st,USA,1886.01.11,12,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.03.05,171,85,White,0,0,13,World Championship 1st,USA,1886.01.11,13,D26,Queen's Gambit Accepted
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.03.12,96,48,Draw,0,0,14,World Championship 1st,USA,1886.01.11,14,C67,Ruy Lopez
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.03.15,97,48,Draw,0,0,15,World Championship 1st,USA,1886.01.11,15,D50,Queen's Gambit Declined
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.03.17,97,48,White,0,0,16,World Championship 1st,USA,1886.01.11,16,C65,"Ruy Lopez, Berlin Defense"
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.03.19,104,52,Draw,0,0,17,World Championship 1st,USA,1886.01.11,17,D60,"Queen's Gambit Declined, Orthodox Defense"
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.03.22,79,39,White,0,0,18,World Championship 1st,USA,1886.01.11,18,C65,"Ruy Lopez, Berlin Defense"
+Zukertort  Johannes H,Steinitz  Wilhelm,1886.03.24,58,29,Black,0,0,19,World Championship 1st,USA,1886.01.11,19,D53,Queen's Gambit Declined
+Steinitz  Wilhelm,Zukertort  Johannes H,1886.03.29,37,18,White,0,0,20,World Championship 1st,USA,1886.01.11,20,C25,Vienna
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.01.20,115,57,White,0,0,21,World Championship 2nd,Havana CUB,1889.01.20,1,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.01.22,75,37,White,0,0,22,World Championship 2nd,Havana CUB,1889.01.20,2,D02,Queen's Pawn Game
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.01.24,165,82,White,0,0,23,World Championship 2nd,Havana CUB,1889.01.20,3,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.01.26,43,21,White,0,0,24,World Championship 2nd,Havana CUB,1889.01.20,4,D02,Queen's Pawn Game
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.01.27,52,26,Black,0,0,25,World Championship 2nd,Havana CUB,1889.01.20,5,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.01.29,74,37,Black,0,0,26,World Championship 2nd,Havana CUB,1889.01.20,6,D02,Queen's Pawn Game
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.01.31,67,33,White,0,0,27,World Championship 2nd,Havana CUB,1889.01.20,7,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.02.04,75,37,White,0,0,28,World Championship 2nd,Havana CUB,1889.01.20,8,D46,Queen's Gambit Declined Semi-Slav
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.02.05,112,56,Black,0,0,29,World Championship 2nd,Havana CUB,1889.01.20,9,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.02.08,53,26,White,0,0,30,World Championship 2nd,Havana CUB,1889.01.20,10,D07,"Queen's Gambit Declined, Chigorin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.02.10,61,30,White,0,0,31,World Championship 2nd,Havana CUB,1889.01.20,11,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.02.12,121,60,White,0,0,32,World Championship 2nd,Havana CUB,1889.01.20,12,D07,"Queen's Gambit Declined, Chigorin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.02.16,127,63,White,0,0,33,World Championship 2nd,Havana CUB,1889.01.20,13,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.02.19,69,34,White,0,0,34,World Championship 2nd,Havana CUB,1889.01.20,14,D07,"Queen's Gambit Declined, Chigorin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.02.21,72,36,Black,0,0,35,World Championship 2nd,Havana CUB,1889.01.20,15,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1889.02.23,103,51,White,0,0,36,World Championship 2nd,Havana CUB,1889.01.20,16,A85,"Dutch, with c4 & Nc3"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1889.02.24,140,70,Draw,0,0,37,World Championship 2nd,Havana CUB,1889.01.20,17,C52,Evans Gambit
+Steinitz  Wilhelm,Gunsberg  Isidor A,1890.12.09,50,25,Draw,0,0,38,World Championship 3rd,"New York, NY USA",1890.12.09,1,D35,Queen's Gambit Declined
+Gunsberg  Isidor A,Steinitz  Wilhelm,1890.12.11,78,39,Black,0,0,39,World Championship 3rd,"New York, NY USA",1890.12.09,2,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Gunsberg  Isidor A,1890.12.13,54,27,Draw,0,0,40,World Championship 3rd,"New York, NY USA",1890.12.09,3,D31,Queen's Gambit Declined
+Gunsberg  Isidor A,Steinitz  Wilhelm,1890.12.15,113,56,White,0,0,41,World Championship 3rd,"New York, NY USA",1890.12.09,4,C50,Giuoco Piano
+Steinitz  Wilhelm,Gunsberg  Isidor A,1890.12.18,50,25,Black,0,0,42,World Championship 3rd,"New York, NY USA",1890.12.09,5,D20,Queen's Gambit Accepted
+Gunsberg  Isidor A,Steinitz  Wilhelm,1890.12.20,86,43,Black,0,0,43,World Championship 3rd,"New York, NY USA",1890.12.09,6,D05,Queen's Pawn Game
+Steinitz  Wilhelm,Gunsberg  Isidor A,1890.12.22,55,27,White,0,0,44,World Championship 3rd,"New York, NY USA",1890.12.09,7,E51,"Nimzo-Indian, 4.e3"
+Gunsberg  Isidor A,Steinitz  Wilhelm,1890.12.27,71,35,Draw,0,0,45,World Championship 3rd,"New York, NY USA",1890.12.09,8,C54,Giuoco Piano
+Steinitz  Wilhelm,Gunsberg  Isidor A,1890.12.29,159,79,Draw,0,0,46,World Championship 3rd,"New York, NY USA",1890.12.09,9,D30,Queen's Gambit Declined
+Gunsberg  Isidor A,Steinitz  Wilhelm,1891.01.02,86,43,Black,0,0,47,World Championship 3rd,"New York, NY USA",1890.12.09,10,C54,Giuoco Piano
+Steinitz  Wilhelm,Gunsberg  Isidor A,1891.01.03,57,28,Draw,0,0,48,World Championship 3rd,"New York, NY USA",1890.12.09,11,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Gunsberg  Isidor A,Steinitz  Wilhelm,1891.01.05,47,23,White,0,0,49,World Championship 3rd,"New York, NY USA",1890.12.09,12,C52,Evans Gambit
+Steinitz  Wilhelm,Gunsberg  Isidor A,1891.01.07,79,39,White,0,0,50,World Championship 3rd,"New York, NY USA",1890.12.09,13,D37,Queen's Gambit Declined
+Gunsberg  Isidor A,Steinitz  Wilhelm,1891.01.10,66,33,Draw,0,0,51,World Championship 3rd,"New York, NY USA",1890.12.09,14,C52,Evans Gambit
+Steinitz  Wilhelm,Gunsberg  Isidor A,1891.01.12,77,38,Draw,0,0,52,World Championship 3rd,"New York, NY USA",1890.12.09,15,E14,Queen's Indian
+Gunsberg  Isidor A,Steinitz  Wilhelm,1891.01.15,41,20,White,0,0,53,World Championship 3rd,"New York, NY USA",1890.12.09,16,C52,Evans Gambit
+Steinitz  Wilhelm,Gunsberg  Isidor A,1891.01.17,112,56,Draw,0,0,54,World Championship 3rd,"New York, NY USA",1890.12.09,17,D06,Queen's Gambit Declined
+Gunsberg  Isidor A,Steinitz  Wilhelm,1891.01.21,108,54,Black,0,0,55,World Championship 3rd,"New York, NY USA",1890.12.09,18,C52,Evans Gambit
+Steinitz  Wilhelm,Gunsberg  Isidor A,1891.01.22,82,41,Draw,0,0,56,World Championship 3rd,"New York, NY USA",1890.12.09,19,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.01,61,30,White,0,0,57,World Championship 4th,Havana CUB,1892.01.01,1,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.03,63,31,Draw,0,0,58,World Championship 4th,Havana CUB,1892.01.01,2,C65,"Ruy Lopez, Berlin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.05,64,32,Draw,0,0,59,World Championship 4th,Havana CUB,1892.01.01,3,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.07,55,27,White,0,0,60,World Championship 4th,Havana CUB,1892.01.01,4,C65,"Ruy Lopez, Berlin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.10,109,54,Draw,0,0,61,World Championship 4th,Havana CUB,1892.01.01,5,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.12,93,46,White,0,0,62,World Championship 4th,Havana CUB,1892.01.01,6,C59,Two Knights
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.14,55,27,White,0,0,63,World Championship 4th,Havana CUB,1892.01.01,7,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.16,48,24,Black,0,0,64,World Championship 4th,Havana CUB,1892.01.01,8,C58,Two Knights
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.19,67,33,Draw,0,0,65,World Championship 4th,Havana CUB,1892.01.01,9,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.21,60,30,Black,0,0,66,World Championship 4th,Havana CUB,1892.01.01,10,C58,Two Knights
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.24,90,45,Black,0,0,67,World Championship 4th,Havana CUB,1892.01.01,11,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.01.26,52,26,Black,0,0,68,World Championship 4th,Havana CUB,1892.01.01,12,C59,Two Knights
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.01.31,76,38,Black,0,0,69,World Championship 4th,Havana CUB,1892.01.01,13,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.02.02,65,32,White,0,0,70,World Championship 4th,Havana CUB,1892.01.01,14,C65,"Ruy Lopez, Berlin Defense"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.02.04,93,46,White,0,0,71,World Championship 4th,Havana CUB,1892.01.01,15,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.02.07,75,37,White,0,0,72,World Championship 4th,Havana CUB,1892.01.01,16,C77,Ruy Lopez
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.02.09,77,38,White,0,0,73,World Championship 4th,Havana CUB,1892.01.01,17,C52,Evans Gambit
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.02.14,77,38,White,0,0,74,World Championship 4th,Havana CUB,1892.01.01,18,A85,"Dutch, with c4 & Nc3"
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.02.16,63,31,White,0,0,75,World Championship 4th,Havana CUB,1892.01.01,19,C45,Scotch Game
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.02.18,81,40,White,0,0,76,World Championship 4th,Havana CUB,1892.01.01,20,D37,Queen's Gambit Declined
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.02.23,93,46,Draw,0,0,77,World Championship 4th,Havana CUB,1892.01.01,21,C25,Vienna
+Steinitz  Wilhelm,Chigorin  Mikhail I,1892.02.25,97,48,White,0,0,78,World Championship 4th,Havana CUB,1892.01.01,22,D55,Queen's Gambit Declined
+Chigorin  Mikhail I,Steinitz  Wilhelm,1892.02.28,64,32,Black,0,0,79,World Championship 4th,Havana CUB,1892.01.01,23,C34,King's Gambit Accepted
+Lasker  Emanuel,Steinitz  Wilhelm,1894.03.15,119,59,White,0,0,80,World Championship 5th,USA/CAN,1894.03.15,1,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.03.19,83,41,White,0,0,81,World Championship 5th,USA/CAN,1894.03.15,2,C65,"Ruy Lopez, Berlin Defense"
+Lasker  Emanuel,Steinitz  Wilhelm,1894.03.21,103,51,White,0,0,82,World Championship 5th,USA/CAN,1894.03.15,3,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.03.23,119,59,White,0,0,83,World Championship 5th,USA/CAN,1894.03.15,4,C54,Giuoco Piano
+Lasker  Emanuel,Steinitz  Wilhelm,1894.03.27,99,49,Draw,0,0,84,World Championship 5th,USA/CAN,1894.03.15,5,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.03.29,142,71,Draw,0,0,85,World Championship 5th,USA/CAN,1894.03.15,6,C54,Giuoco Piano
+Lasker  Emanuel,Steinitz  Wilhelm,1894.04.03,91,45,White,0,0,86,World Championship 5th,USA/CAN,1894.03.15,7,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.04.05,152,76,Black,0,0,87,World Championship 5th,USA/CAN,1894.03.15,8,C10,French
+Lasker  Emanuel,Steinitz  Wilhelm,1894.04.14,97,48,White,0,0,88,World Championship 5th,USA/CAN,1894.03.15,9,C62,"Ruy Lopez, Old Steinitz Defense"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.04.19,68,34,Black,0,0,89,World Championship 5th,USA/CAN,1894.03.15,10,D35,Queen's Gambit Declined
+Lasker  Emanuel,Steinitz  Wilhelm,1894.04.21,75,37,White,0,0,90,World Championship 5th,USA/CAN,1894.03.15,11,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.05.03,96,48,Draw,0,0,91,World Championship 5th,USA/CAN,1894.03.15,12,D60,"Queen's Gambit Declined, Orthodox Defense"
+Lasker  Emanuel,Steinitz  Wilhelm,1894.05.05,110,55,Black,0,0,92,World Championship 5th,USA/CAN,1894.03.15,13,C68,"Ruy Lopez, Exchange"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.05.08,91,45,White,0,0,93,World Championship 5th,USA/CAN,1894.03.15,14,D46,Queen's Gambit Declined Semi-Slav
+Lasker  Emanuel,Steinitz  Wilhelm,1894.05.15,87,43,White,0,0,94,World Championship 5th,USA/CAN,1894.03.15,15,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Steinitz  Wilhelm,Lasker  Emanuel,1894.05.17,108,54,Black,0,0,95,World Championship 5th,USA/CAN,1894.03.15,16,D60,"Queen's Gambit Declined, Orthodox Defense"
+Lasker  Emanuel,Steinitz  Wilhelm,1894.05.19,102,51,Black,0,0,96,World Championship 5th,USA/CAN,1894.03.15,17,C50,Giuoco Piano
+Steinitz  Wilhelm,Lasker  Emanuel,1894.05.22,122,61,Draw,0,0,97,World Championship 5th,USA/CAN,1894.03.15,18,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Lasker  Emanuel,Steinitz  Wilhelm,1894.05.26,103,51,White,0,0,98,World Championship 5th,USA/CAN,1894.03.15,19,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Marshall  Frank J,Lasker  Emanuel,1907.01.26,98,49,Black,0,0,99,World Championship 7th,USA,1907.01.26,1,C65,"Ruy Lopez, Berlin Defense"
+Lasker  Emanuel,Marshall  Frank J,1907.01.29,103,51,White,0,0,100,World Championship 7th,USA,1907.01.26,2,C11,French
+Marshall  Frank J,Lasker  Emanuel,1907.01.31,84,42,Black,0,0,101,World Championship 7th,USA,1907.01.26,3,D53,Queen's Gambit Declined
+Lasker  Emanuel,Marshall  Frank J,1907.02.02,80,40,Draw,0,0,102,World Championship 7th,USA,1907.01.26,4,C12,"French, McCutcheon"
+Marshall  Frank J,Lasker  Emanuel,1907.02.05,82,41,Draw,0,0,103,World Championship 7th,USA,1907.01.26,5,D53,Queen's Gambit Declined
+Lasker  Emanuel,Marshall  Frank J,1907.02.09,42,21,Draw,0,0,104,World Championship 7th,USA,1907.01.26,6,C12,"French, McCutcheon"
+Marshall  Frank J,Lasker  Emanuel,1907.02.16,97,48,Draw,0,0,105,World Championship 7th,USA,1907.01.26,7,D32,"Queen's Gambit Declined, Tarrasch"
+Lasker  Emanuel,Marshall  Frank J,1907.02.19,136,68,White,0,0,106,World Championship 7th,USA,1907.01.26,8,C12,"French, McCutcheon"
+Marshall  Frank J,Lasker  Emanuel,1907.03.02,91,45,Draw,0,0,107,World Championship 7th,USA,1907.01.26,9,D32,"Queen's Gambit Declined, Tarrasch"
+Lasker  Emanuel,Marshall  Frank J,1907.03.08,95,47,Draw,0,0,108,World Championship 7th,USA,1907.01.26,10,C12,"French, McCutcheon"
+Marshall  Frank J,Lasker  Emanuel,1907.03.16,101,50,Draw,0,0,109,World Championship 7th,USA,1907.01.26,11,A83,"Dutch, Staunton Gambit"
+Lasker  Emanuel,Marshall  Frank J,1907.03.19,91,45,White,0,0,110,World Championship 7th,USA,1907.01.26,12,C11,French
+Marshall  Frank J,Lasker  Emanuel,1907.03.21,116,58,Black,0,0,111,World Championship 7th,USA,1907.01.26,13,D07,"Queen's Gambit Declined, Chigorin Defense"
+Lasker  Emanuel,Marshall  Frank J,1907.03.23,41,20,White,0,0,112,World Championship 7th,USA,1907.01.26,14,C11,French
+Marshall  Frank J,Lasker  Emanuel,1907.04.06,74,37,Black,0,0,113,World Championship 7th,USA,1907.01.26,15,D53,Queen's Gambit Declined
+Lasker  Emanuel,Tarrasch  Siegbert,1908.08.17,109,54,White,0,0,114,World Championship 8th,GER,1908.08.17,1,C68,"Ruy Lopez, Exchange"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.08.19,82,41,Black,0,0,115,World Championship 8th,GER,1908.08.17,2,C66,Ruy Lopez
+Lasker  Emanuel,Tarrasch  Siegbert,1908.08.22,88,44,Black,0,0,116,World Championship 8th,GER,1908.08.17,3,C98,"Ruy Lopez, Closed, Chigorin"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.08.24,82,41,Black,0,0,117,World Championship 8th,GER,1908.08.17,4,C66,Ruy Lopez
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.01,75,37,White,0,0,118,World Championship 8th,GER,1908.08.17,5,C98,"Ruy Lopez, Closed, Chigorin"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.02,106,53,Draw,0,0,119,World Championship 8th,GER,1908.08.17,6,C10,French
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.05,151,75,White,0,0,120,World Championship 8th,GER,1908.08.17,7,C15,"French, Winawer"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.09,96,48,Draw,0,0,121,World Championship 8th,GER,1908.08.17,8,C67,Ruy Lopez
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.11,143,71,Draw,0,0,122,World Championship 8th,GER,1908.08.17,9,C15,"French, Winawer"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.14,63,31,White,0,0,123,World Championship 8th,GER,1908.08.17,10,C67,Ruy Lopez
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.15,55,27,White,0,0,124,World Championship 8th,GER,1908.08.17,11,C12,"French, McCutcheon"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.16,129,64,White,0,0,125,World Championship 8th,GER,1908.08.17,12,C49,Four Knights
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.23,87,43,White,0,0,126,World Championship 8th,GER,1908.08.17,13,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.24,238,119,Draw,0,0,127,World Championship 8th,GER,1908.08.17,14,C67,Ruy Lopez
+Lasker  Emanuel,Tarrasch  Siegbert,1908.09.28,102,51,Draw,0,0,128,World Championship 8th,GER,1908.08.17,15,D02,Queen's Pawn Game
+Tarrasch  Siegbert,Lasker  Emanuel,1908.09.30,52,26,Black,0,0,129,World Championship 8th,GER,1908.08.17,16,C49,Four Knights
+Lasker  Emanuel,Janowski  Dawid M,1909.10.19,85,42,Draw,0,0,130,World Championship 9th,Paris FRA,1909.10.19,1,C87,Ruy Lopez
+Janowski  Dawid M,Lasker  Emanuel,1909.10.21,64,32,Black,0,0,131,World Championship 9th,Paris FRA,1909.10.19,2,C49,Four Knights
+Lasker  Emanuel,Janowski  Dawid M,1909.10.22,75,37,White,0,0,132,World Championship 9th,Paris FRA,1909.10.19,3,C68,"Ruy Lopez, Exchange"
+Janowski  Dawid M,Lasker  Emanuel,1909.10.25,100,50,Black,0,0,133,World Championship 9th,Paris FRA,1909.10.19,4,C49,Four Knights
+Lasker  Emanuel,Janowski  Dawid M,1909.10.27,121,60,White,0,0,134,World Championship 9th,Paris FRA,1909.10.19,5,C68,"Ruy Lopez, Exchange"
+Janowski  Dawid M,Lasker  Emanuel,1909.10.30,65,32,White,0,0,135,World Championship 9th,Paris FRA,1909.10.19,6,C66,Ruy Lopez
+Lasker  Emanuel,Janowski  Dawid M,1909.11.02,125,62,White,0,0,136,World Championship 9th,Paris FRA,1909.10.19,7,C87,Ruy Lopez
+Janowski  Dawid M,Lasker  Emanuel,1909.11.05,60,30,Draw,0,0,137,World Championship 9th,Paris FRA,1909.10.19,8,C66,Ruy Lopez
+Lasker  Emanuel,Janowski  Dawid M,1909.11.06,121,60,White,0,0,138,World Championship 9th,Paris FRA,1909.10.19,9,C87,Ruy Lopez
+Janowski  Dawid M,Lasker  Emanuel,1909.11.09,58,29,Black,0,0,139,World Championship 9th,Paris FRA,1909.10.19,10,B34,"Sicilian, Accelerated Fianchetto"
+Lasker  Emanuel,Janowski  Dawid M,1910.11.08,43,21,White,0,0,140,World Championship 11th,Berlin GER,1910.11.08,1,D32,"Queen's Gambit Declined, Tarrasch"
+Janowski  Dawid M,Lasker  Emanuel,1910.11.09,90,45,Draw,0,0,141,World Championship 11th,Berlin GER,1910.11.08,2,D05,Queen's Pawn Game
+Lasker  Emanuel,Janowski  Dawid M,1910.11.12,201,100,Draw,0,0,142,World Championship 11th,Berlin GER,1910.11.08,3,D55,Queen's Gambit Declined
+Janowski  Dawid M,Lasker  Emanuel,1910.11.17,62,31,Black,0,0,143,World Championship 11th,Berlin GER,1910.11.08,4,D27,"Queen's Gambit Accepted, Classical"
+Lasker  Emanuel,Janowski  Dawid M,1910.11.19,57,28,White,0,0,144,World Championship 11th,Berlin GER,1910.11.08,5,D32,"Queen's Gambit Declined, Tarrasch"
+Janowski  Dawid M,Lasker  Emanuel,1910.11.20,133,66,Draw,0,0,145,World Championship 11th,Berlin GER,1910.11.08,6,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Lasker  Emanuel,Janowski  Dawid M,1910.11.24,91,45,White,0,0,146,World Championship 11th,Berlin GER,1910.11.08,7,D32,"Queen's Gambit Declined, Tarrasch"
+Janowski  Dawid M,Lasker  Emanuel,1910.11.27,176,88,Black,0,0,147,World Championship 11th,Berlin GER,1910.11.08,8,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Lasker  Emanuel,Janowski  Dawid M,1910.12.01,85,42,White,0,0,148,World Championship 11th,Berlin GER,1910.11.08,9,C79,"Ruy Lopez, Steinitz Defense Deferred"
+Janowski  Dawid M,Lasker  Emanuel,1910.12.06,104,52,Black,0,0,149,World Championship 11th,Berlin GER,1910.11.08,10,B07,Pirc
+Lasker  Emanuel,Janowski  Dawid M,1910.12.08,59,29,White,0,0,150,World Championship 11th,Berlin GER,1910.11.08,11,C30,King's Gambit Declined
+Schlechter  Carl,Lasker  Emanuel,1910.01.07,138,69,Draw,0,0,151,World Championship 10th,GER/AUT,1910.01.07,1,C66,Ruy Lopez
+Lasker  Emanuel,Schlechter  Carl,1910.01.13,70,35,Draw,0,0,152,World Championship 10th,GER/AUT,1910.01.07,2,C80,"Ruy Lopez, Open"
+Schlechter  Carl,Lasker  Emanuel,1910.01.15,62,31,Draw,0,0,153,World Championship 10th,GER/AUT,1910.01.07,3,C66,Ruy Lopez
+Lasker  Emanuel,Schlechter  Carl,1910.01.18,112,56,Draw,0,0,154,World Championship 10th,GER/AUT,1910.01.07,4,C80,"Ruy Lopez, Open"
+Schlechter  Carl,Lasker  Emanuel,1910.01.21,116,58,White,0,0,155,World Championship 10th,GER/AUT,1910.01.07,5,C66,Ruy Lopez
+Lasker  Emanuel,Schlechter  Carl,1910.01.29,94,47,Draw,0,0,156,World Championship 10th,GER/AUT,1910.01.07,6,C80,"Ruy Lopez, Open"
+Schlechter  Carl,Lasker  Emanuel,1910.01.30,96,48,Draw,0,0,157,World Championship 10th,GER/AUT,1910.01.07,7,B57,Sicilian
+Lasker  Emanuel,Schlechter  Carl,1910.02.02,86,43,Draw,0,0,158,World Championship 10th,GER/AUT,1910.01.07,8,C80,"Ruy Lopez, Open"
+Schlechter  Carl,Lasker  Emanuel,1910.02.05,129,64,Draw,0,0,159,World Championship 10th,GER/AUT,1910.01.07,9,B33,Sicilian
+Lasker  Emanuel,Schlechter  Carl,1910.02.08,141,70,White,0,0,160,World Championship 10th,GER/AUT,1910.01.07,10,D94,Grunfeld
+Capablanca  Jose Raul,Lasker  Emanuel,1921.03.15,100,50,Draw,0,0,161,World Championship 12th,Havana CUB,1921.03.15,1,D63,"Queen's Gambit Declined, Orthodox Defense"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.03.17,81,40,Draw,0,0,162,World Championship 12th,Havana CUB,1921.03.15,2,D37,Queen's Gambit Declined
+Capablanca  Jose Raul,Lasker  Emanuel,1921.03.19,125,62,Draw,0,0,163,World Championship 12th,Havana CUB,1921.03.15,3,C66,Ruy Lopez
+Lasker  Emanuel,Capablanca  Jose Raul,1921.03.23,59,29,Draw,0,0,164,World Championship 12th,Havana CUB,1921.03.15,4,D60,"Queen's Gambit Declined, Orthodox Defense"
+Capablanca  Jose Raul,Lasker  Emanuel,1921.03.29,91,45,White,0,0,165,World Championship 12th,Havana CUB,1921.03.15,5,D63,"Queen's Gambit Declined, Orthodox Defense"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.03.30,86,43,Draw,0,0,166,World Championship 12th,Havana CUB,1921.03.15,6,C66,Ruy Lopez
+Capablanca  Jose Raul,Lasker  Emanuel,1921.04.02,46,23,Draw,0,0,167,World Championship 12th,Havana CUB,1921.03.15,7,D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.04.03,60,30,Draw,0,0,168,World Championship 12th,Havana CUB,1921.03.15,8,D12,Queen's Gambit Declined Slav
+Capablanca  Jose Raul,Lasker  Emanuel,1921.04.06,42,21,Draw,0,0,169,World Championship 12th,Havana CUB,1921.03.15,9,D34,"Queen's Gambit Declined, Tarrasch"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.04.08,136,68,Black,0,0,170,World Championship 12th,Havana CUB,1921.03.15,10,D61,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Lasker  Emanuel,1921.04.13,95,47,White,0,0,171,World Championship 12th,Havana CUB,1921.03.15,11,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.04.16,61,30,Draw,0,0,172,World Championship 12th,Havana CUB,1921.03.15,12,C66,Ruy Lopez
+Capablanca  Jose Raul,Lasker  Emanuel,1921.04.19,46,23,Draw,0,0,173,World Championship 12th,Havana CUB,1921.03.15,13,D63,"Queen's Gambit Declined, Orthodox Defense"
+Lasker  Emanuel,Capablanca  Jose Raul,1921.04.20,112,56,Black,0,0,174,World Championship 12th,Havana CUB,1921.03.15,14,C66,Ruy Lopez
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.09.16,86,43,Black,0,0,175,World Championship 13th,Buenos Aires ARG,1927.09.16,1,C01,"French, Exchange"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.09.20,38,19,Draw,0,0,176,World Championship 13th,Buenos Aires ARG,1927.09.16,2,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.09.21,83,41,White,0,0,177,World Championship 13th,Buenos Aires ARG,1927.09.16,3,A47,Queen's Indian
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.09.23,98,49,Draw,0,0,178,World Championship 13th,Buenos Aires ARG,1927.09.16,4,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.09.27,83,41,Draw,0,0,179,World Championship 13th,Buenos Aires ARG,1927.09.16,5,D51,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.09.30,79,39,Draw,0,0,180,World Championship 13th,Buenos Aires ARG,1927.09.16,6,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.01,71,35,White,0,0,181,World Championship 13th,Buenos Aires ARG,1927.09.16,7,D52,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.03,84,42,Draw,0,0,182,World Championship 13th,Buenos Aires ARG,1927.09.16,8,D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.05,68,34,Draw,0,0,183,World Championship 13th,Buenos Aires ARG,1927.09.16,9,D51,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.06,40,20,Draw,0,0,184,World Championship 13th,Buenos Aires ARG,1927.09.16,10,D62,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.08,132,66,Black,0,0,185,World Championship 13th,Buenos Aires ARG,1927.09.16,11,D52,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.11,81,40,White,0,0,186,World Championship 13th,Buenos Aires ARG,1927.09.16,12,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.15,54,27,Draw,0,0,187,World Championship 13th,Buenos Aires ARG,1927.09.16,13,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.14,50,25,Draw,0,0,188,World Championship 13th,Buenos Aires ARG,1927.09.16,14,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.15,59,29,Draw,0,0,189,World Championship 13th,Buenos Aires ARG,1927.09.16,15,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.17,47,23,Draw,0,0,190,World Championship 13th,Buenos Aires ARG,1927.09.16,16,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.18,118,59,Draw,0,0,191,World Championship 13th,Buenos Aires ARG,1927.09.16,17,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.20,55,27,Draw,0,0,192,World Championship 13th,Buenos Aires ARG,1927.09.16,18,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.22,42,21,Draw,0,0,193,World Championship 13th,Buenos Aires ARG,1927.09.16,19,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.24,86,43,Draw,0,0,194,World Championship 13th,Buenos Aires ARG,1927.09.16,20,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.10.26,64,32,Black,0,0,195,World Championship 13th,Buenos Aires ARG,1927.09.16,21,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.10.28,172,86,Draw,0,0,196,World Championship 13th,Buenos Aires ARG,1927.09.16,22,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.01,95,47,Draw,0,0,197,World Championship 13th,Buenos Aires ARG,1927.09.16,23,D63,"Queen's Gambit Declined, Orthodox Defense"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.03,81,40,Draw,0,0,198,World Championship 13th,Buenos Aires ARG,1927.09.16,24,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.05,80,40,Draw,0,0,199,World Championship 13th,Buenos Aires ARG,1927.09.16,25,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.08,43,21,Draw,0,0,200,World Championship 13th,Buenos Aires ARG,1927.09.16,26,D64,"Queen's Gambit Declined, Orthodox, Rubinstein Attack"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.09,76,38,Draw,0,0,201,World Championship 13th,Buenos Aires ARG,1927.09.16,27,D65,"Queen's Gambit Declined, Orthodox, Rubinstein Attack, Main line"
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.10,85,42,Draw,0,0,202,World Championship 13th,Buenos Aires ARG,1927.09.16,28,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.14,139,69,White,0,0,203,World Championship 13th,Buenos Aires ARG,1927.09.16,29,D52,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.16,80,40,Draw,0,0,204,World Championship 13th,Buenos Aires ARG,1927.09.16,30,D67,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.18,83,41,Draw,0,0,205,World Championship 13th,Buenos Aires ARG,1927.09.16,31,D51,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.22,125,62,White,0,0,206,World Championship 13th,Buenos Aires ARG,1927.09.16,32,D35,Queen's Gambit Declined
+Capablanca  Jose Raul,Alekhine  Alexander A,1927.11.25,36,18,Draw,0,0,207,World Championship 13th,Buenos Aires ARG,1927.09.16,33,D51,Queen's Gambit Declined
+Alekhine  Alexander A,Capablanca  Jose Raul,1927.11.26,163,81,White,0,0,208,World Championship 13th,Buenos Aires ARG,1927.09.16,34,D51,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.09.06,51,25,White,0,0,209,World Championship 14th,GER/NLD,1929.09.06,1,D16,Queen's Gambit Declined Slav
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.09.07,101,50,Draw,0,0,210,World Championship 14th,GER/NLD,1929.09.06,2,E23,"Nimzo-Indian, Spielmann"
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.09.09,140,70,Draw,0,0,211,World Championship 14th,GER/NLD,1929.09.06,3,D17,Queen's Gambit Declined Slav
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.09.11,75,37,White,0,0,212,World Championship 14th,GER/NLD,1929.09.06,4,E38,"Nimzo-Indian, Classical, 4...c5"
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.09.13,95,47,White,0,0,213,World Championship 14th,GER/NLD,1929.09.06,5,D17,Queen's Gambit Declined Slav
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.09.15,95,47,White,0,0,214,World Championship 14th,GER/NLD,1929.09.06,6,E22,"Nimzo-Indian, Spielmann Variation"
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.09.17,69,34,White,0,0,215,World Championship 14th,GER/NLD,1929.09.06,7,D78,"Neo-Grunfeld, 6.O-O c6"
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.09.19,60,30,Black,0,0,216,World Championship 14th,GER/NLD,1929.09.06,8,A50,Queen's Pawn Game
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.03,60,30,Draw,0,0,217,World Championship 14th,GER/NLD,1929.09.06,9,D52,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.05,99,49,Black,0,0,218,World Championship 14th,GER/NLD,1929.09.06,10,D52,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.07,126,63,Draw,0,0,219,World Championship 14th,GER/NLD,1929.09.06,11,D51,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.11,112,56,Black,0,0,220,World Championship 14th,GER/NLD,1929.09.06,12,D52,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.13,68,34,Black,0,0,221,World Championship 14th,GER/NLD,1929.09.06,13,D52,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.15,141,70,White,0,0,222,World Championship 14th,GER/NLD,1929.09.06,14,D30,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.17,88,44,Draw,0,0,223,World Championship 14th,GER/NLD,1929.09.06,15,E70,King's Indian
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.19,120,60,Black,0,0,224,World Championship 14th,GER/NLD,1929.09.06,16,D30,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.21,67,33,White,0,0,225,World Championship 14th,GER/NLD,1929.09.06,17,D70,Neo-Grunfeld Defense
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.26,101,50,White,0,0,226,World Championship 14th,GER/NLD,1929.09.06,18,C11,French
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.10.27,153,76,White,0,0,227,World Championship 14th,GER/NLD,1929.09.06,19,D51,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.10.30,95,47,Draw,0,0,228,World Championship 14th,GER/NLD,1929.09.06,20,C79,"Ruy Lopez, Steinitz Defense Deferred"
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.11.01,97,48,White,0,0,229,World Championship 14th,GER/NLD,1929.09.06,21,E22,"Nimzo-Indian, Spielmann Variation"
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.11.03,78,39,Black,0,0,230,World Championship 14th,GER/NLD,1929.09.06,22,C76,"Ruy Lopez, Modern Steinitz Defense, Fianchetto Variation"
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.11.05,165,82,Draw,0,0,231,World Championship 14th,GER/NLD,1929.09.06,23,D46,Queen's Gambit Declined Semi-Slav
+Bogoljubow  Efim D,Alekhine  Alexander A,1929.11.10,76,38,Draw,0,0,232,World Championship 14th,GER/NLD,1929.09.06,24,C11,French
+Alekhine  Alexander A,Bogoljubow  Efim D,1929.11.11,110,55,Draw,0,0,233,World Championship 14th,GER/NLD,1929.09.06,25,D30,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.01,130,65,Draw,0,0,234,World Championship 15th,GER,1934.04.01,1,D50,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.04.04,73,36,White,0,0,235,World Championship 15th,GER,1934.04.01,2,D48,"Queen's Gambit Declined Semi-Slav, Meran"
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.06,54,27,Draw,0,0,236,World Championship 15th,GER,1934.04.01,3,D22,Queen's Gambit Accepted
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.04.11,121,60,White,0,0,237,World Championship 15th,GER,1934.04.01,4,D31,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.13,101,50,Draw,0,0,238,World Championship 15th,GER,1934.04.01,5,D26,Queen's Gambit Accepted
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.04.18,120,60,Draw,0,0,239,World Championship 15th,GER,1934.04.01,6,D30,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.20,34,17,Draw,0,0,240,World Championship 15th,GER,1934.04.01,7,D28,"Queen's Gambit Accepted, Classical"
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.04.22,127,63,Draw,0,0,241,World Championship 15th,GER,1934.04.01,8,E24,"Nimzo-Indian, Samisch"
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.25,92,46,Black,0,0,242,World Championship 15th,GER,1934.04.01,9,A44,Old Benoni Defense
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.04.27,162,81,Black,0,0,243,World Championship 15th,GER,1934.04.01,10,D52,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.04.29,124,62,Black,0,0,244,World Championship 15th,GER,1934.04.01,11,A91,Dutch Defense
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.05.02,149,74,Draw,0,0,245,World Championship 15th,GER,1934.04.01,12,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.05.06,147,73,Draw,0,0,246,World Championship 15th,GER,1934.04.01,13,A47,Queen's Indian
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.05.08,107,53,Draw,0,0,247,World Championship 15th,GER,1934.04.01,14,D60,"Queen's Gambit Declined, Orthodox Defense"
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.05.11,139,69,Draw,0,0,248,World Championship 15th,GER,1934.04.01,15,D21,Queen's Gambit Accepted
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.05.13,85,42,White,0,0,249,World Championship 15th,GER,1934.04.01,16,C77,Ruy Lopez
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.05.20,82,41,Black,0,0,250,World Championship 15th,GER,1934.04.01,17,D24,Queen's Gambit Accepted
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.05.21,56,28,Draw,0,0,251,World Championship 15th,GER,1934.04.01,18,D05,Queen's Pawn Game
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.05.26,115,57,Draw,0,0,252,World Championship 15th,GER,1934.04.01,19,D27,"Queen's Gambit Accepted, Classical"
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.05.27,88,44,Draw,0,0,253,World Championship 15th,GER,1934.04.01,20,D52,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.05.30,126,63,Black,0,0,254,World Championship 15th,GER,1934.04.01,21,D30,Queen's Gambit Declined
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.06.01,83,41,Draw,0,0,255,World Championship 15th,GER,1934.04.01,22,E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed"
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.06.03,115,57,White,0,0,256,World Championship 15th,GER,1934.04.01,23,D23,Queen's Gambit Accepted
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.06.06,78,39,Black,0,0,257,World Championship 15th,GER,1934.04.01,24,D30,Queen's Gambit Declined
+Bogoljubow  Efim D,Alekhine  Alexander A,1934.06.11,88,44,Black,0,0,258,World Championship 15th,GER,1934.04.01,25,D11,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Bogoljubow  Efim D,1934.06.14,47,23,Draw,0,0,259,World Championship 15th,GER,1934.04.01,26,E67,"King's Indian, Fianchetto"
+Alekhine  Alexander A,Euwe  Max,1935.10.03,59,29,White,0,0,260,World Championship 16th,NLD,1935.10.03,1,D17,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.10.06,89,44,White,0,0,261,World Championship 16th,NLD,1935.10.03,2,D81,"Grunfeld, Russian Variation"
+Alekhine  Alexander A,Euwe  Max,1935.10.08,81,40,White,0,0,262,World Championship 16th,NLD,1935.10.03,3,C15,"French, Winawer"
+Euwe  Max,Alekhine  Alexander A,1935.10.10,88,44,Black,0,0,263,World Championship 16th,NLD,1935.10.03,4,D81,"Grunfeld, Russian Variation"
+Alekhine  Alexander A,Euwe  Max,1935.10.12,68,34,Draw,0,0,264,World Championship 16th,NLD,1935.10.03,5,C15,"French, Winawer"
+Euwe  Max,Alekhine  Alexander A,1935.10.15,145,72,Draw,0,0,265,World Championship 16th,NLD,1935.10.03,6,D12,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Euwe  Max,1935.10.17,79,39,White,0,0,266,World Championship 16th,NLD,1935.10.03,7,C15,"French, Winawer"
+Euwe  Max,Alekhine  Alexander A,1935.10.20,137,68,White,0,0,267,World Championship 16th,NLD,1935.10.03,8,D45,Queen's Gambit Declined Semi-Slav
+Alekhine  Alexander A,Euwe  Max,1935.10.22,81,40,White,0,0,268,World Championship 16th,NLD,1935.10.03,9,C15,"French, Winawer"
+Euwe  Max,Alekhine  Alexander A,1935.10.24,81,40,White,0,0,269,World Championship 16th,NLD,1935.10.03,10,D45,Queen's Gambit Declined Semi-Slav
+Alekhine  Alexander A,Euwe  Max,1935.10.27,60,30,Draw,0,0,270,World Championship 16th,NLD,1935.10.03,11,D12,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.10.29,71,35,White,0,0,271,World Championship 16th,NLD,1935.10.03,12,D97,"Grunfeld, Russian"
+Alekhine  Alexander A,Euwe  Max,1935.11.01,117,58,Draw,0,0,272,World Championship 16th,NLD,1935.10.03,13,C83,"Ruy Lopez, Open"
+Euwe  Max,Alekhine  Alexander A,1935.11.02,81,40,White,0,0,273,World Championship 16th,NLD,1935.10.03,14,D82,"Grunfeld, 4.Bf4"
+Alekhine  Alexander A,Euwe  Max,1935.11.05,122,61,Draw,0,0,274,World Championship 16th,NLD,1935.10.03,15,D17,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.11.07,130,65,Black,0,0,275,World Championship 16th,NLD,1935.10.03,16,D12,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Euwe  Max,1935.11.09,45,22,Draw,0,0,276,World Championship 16th,NLD,1935.10.03,17,D04,Queen's Pawn Game
+Euwe  Max,Alekhine  Alexander A,1935.11.12,31,15,Draw,0,0,277,World Championship 16th,NLD,1935.10.03,18,A20,English
+Alekhine  Alexander A,Euwe  Max,1935.11.14,113,56,White,0,0,278,World Championship 16th,NLD,1935.10.03,19,D16,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.11.16,81,40,White,0,0,279,World Championship 16th,NLD,1935.10.03,20,D17,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Euwe  Max,1935.11.19,80,40,Black,0,0,280,World Championship 16th,NLD,1935.10.03,21,D17,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.11.24,35,17,Draw,0,0,281,World Championship 16th,NLD,1935.10.03,22,E33,"Nimzo-Indian, Classical"
+Alekhine  Alexander A,Euwe  Max,1935.11.26,115,57,Draw,0,0,282,World Championship 16th,NLD,1935.10.03,23,D15,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1935.11.28,65,32,Draw,0,0,283,World Championship 16th,NLD,1935.10.03,24,A90,Dutch
+Alekhine  Alexander A,Euwe  Max,1935.12.01,90,45,Black,0,0,284,World Championship 16th,NLD,1935.10.03,25,D52,Queen's Gambit Declined
+Euwe  Max,Alekhine  Alexander A,1935.12.03,93,46,White,0,0,285,World Championship 16th,NLD,1935.10.03,26,E18,"Queen's Indian, Old Main line, 7.Nc3"
+Alekhine  Alexander A,Euwe  Max,1935.12.06,81,40,White,0,0,286,World Championship 16th,NLD,1935.10.03,27,C27,Vienna Game
+Euwe  Max,Alekhine  Alexander A,1935.12.08,125,62,Draw,0,0,287,World Championship 16th,NLD,1935.10.03,28,D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Alekhine  Alexander A,Euwe  Max,1935.12.12,100,50,Draw,0,0,288,World Championship 16th,NLD,1935.10.03,29,B05,"Alekhine's Defense, Modern"
+Euwe  Max,Alekhine  Alexander A,1935.12.15,79,39,Draw,0,0,289,World Championship 16th,NLD,1935.10.03,30,D21,Queen's Gambit Accepted
+Euwe  Max,Alekhine  Alexander A,1937.10.05,99,49,White,0,0,290,World Championship 17th,NLD,1937.10.05,1,D17,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Euwe  Max,1937.10.07,81,40,White,0,0,291,World Championship 17th,NLD,1937.10.05,2,D17,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1937.10.10,120,60,Draw,0,0,292,World Championship 17th,NLD,1937.10.05,3,D46,Queen's Gambit Declined Semi-Slav
+Alekhine  Alexander A,Euwe  Max,1937.10.12,53,26,Draw,0,0,293,World Championship 17th,NLD,1937.10.05,4,D17,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1937.10.14,81,40,White,0,0,294,World Championship 17th,NLD,1937.10.05,5,D28,"Queen's Gambit Accepted, Classical"
+Alekhine  Alexander A,Euwe  Max,1937.10.16,45,22,White,0,0,295,World Championship 17th,NLD,1937.10.05,6,D10,Queen's Gambit Declined Slav
+Euwe  Max,Alekhine  Alexander A,1937.10.19,68,34,Black,0,0,296,World Championship 17th,NLD,1937.10.05,7,D18,"Queen's Gambit Declined Slav, Dutch"
+Alekhine  Alexander A,Euwe  Max,1937.10.21,51,25,White,0,0,297,World Championship 17th,NLD,1937.10.05,8,E34,"Nimzo-Indian, Classical, Noa Variation"
+Euwe  Max,Alekhine  Alexander A,1937.10.24,81,40,Draw,0,0,298,World Championship 17th,NLD,1937.10.05,9,D18,"Queen's Gambit Declined Slav, Dutch"
+Alekhine  Alexander A,Euwe  Max,1937.10.26,79,39,White,0,0,299,World Championship 17th,NLD,1937.10.05,10,E34,"Nimzo-Indian, Classical, Noa Variation"
+Euwe  Max,Alekhine  Alexander A,1937.10.30,60,30,Draw,0,0,300,World Championship 17th,NLD,1937.10.05,11,D17,Queen's Gambit Declined Slav
+Alekhine  Alexander A,Euwe  Max,1937.11.01,51,25,Draw,0,0,301,World Championship 17th,NLD,1937.10.05,12,E34,"Nimzo-Indian, Classical, Noa Variation"
+Euwe  Max,Alekhine  Alexander A,1937.11.03,135,67,White,0,0,302,World Championship 17th,NLD,1937.10.05,13,D18,"Queen's Gambit Declined Slav, Dutch"
+Alekhine  Alexander A,Euwe  Max,1937.11.06,103,51,White,0,0,303,World Championship 17th,NLD,1937.10.05,14,E02,"Catalan, Open, 5.Qa4"
+Euwe  Max,Alekhine  Alexander A,1937.11.09,123,61,Draw,0,0,304,World Championship 17th,NLD,1937.10.05,15,D19,"Queen's Gambit Declined Slav, Dutch"
+Alekhine  Alexander A,Euwe  Max,1937.11.11,129,64,Draw,0,0,305,World Championship 17th,NLD,1937.10.05,16,E02,"Catalan, Open, 5.Qa4"
+Euwe  Max,Alekhine  Alexander A,1937.11.14,81,40,White,0,0,306,World Championship 17th,NLD,1937.10.05,17,D19,"Queen's Gambit Declined Slav, Dutch"
+Alekhine  Alexander A,Euwe  Max,1937.11.18,101,50,Draw,0,0,307,World Championship 17th,NLD,1937.10.05,18,D41,"Queen's Gambit Declined, Semi-Tarrasch"
+Euwe  Max,Alekhine  Alexander A,1937.11.20,97,48,Draw,0,0,308,World Championship 17th,NLD,1937.10.05,19,E21,"Nimzo-Indian, Three Knights"
+Alekhine  Alexander A,Euwe  Max,1937.11.23,81,40,Draw,0,0,309,World Championship 17th,NLD,1937.10.05,20,E34,"Nimzo-Indian, Classical, Noa Variation"
+Euwe  Max,Alekhine  Alexander A,1937.11.25,64,32,Black,0,0,310,World Championship 17th,NLD,1937.10.05,21,E18,"Queen's Indian, Old Main line, 7.Nc3"
+Alekhine  Alexander A,Euwe  Max,1937.11.27,123,61,White,0,0,311,World Championship 17th,NLD,1937.10.05,22,A09,Reti Opening
+Euwe  Max,Alekhine  Alexander A,1937.11.30,100,50,Draw,0,0,312,World Championship 17th,NLD,1937.10.05,23,E17,Queen's Indian
+Alekhine  Alexander A,Euwe  Max,1937.12.02,81,40,White,0,0,313,World Championship 17th,NLD,1937.10.05,24,D41,"Queen's Gambit Declined, Semi-Tarrasch"
+Euwe  Max,Alekhine  Alexander A,1937.12.04,86,43,Black,0,0,314,World Championship 17th,NLD,1937.10.05,25,E46,Nimzo-Indian
+Euwe  Max,Keres  Paul,1948.03.02,111,55,Black,0,0,315,World Championship 18th,NLD/URS,1948.03.02,1,C75,"Ruy Lopez, Modern Steinitz Defense"
+Smyslov  Vassily V,Reshevsky  Samuel H,1948.03.02,81,40,Draw,0,0,316,World Championship 18th,NLD/URS,1948.03.02,1,C99,"Ruy Lopez, Closed, Chigorin, 12...cd"
+Botvinnik  Mikhail M,Euwe  Max,1948.03.04,63,31,White,0,0,317,World Championship 18th,NLD/URS,1948.03.02,2,D46,Queen's Gambit Declined Semi-Slav
+Keres  Paul,Smyslov  Vassily V,1948.03.04,53,26,White,0,0,318,World Championship 18th,NLD/URS,1948.03.02,2,D94,Grunfeld
+Reshevsky  Samuel H,Keres  Paul,1948.03.08,81,40,White,0,0,319,World Championship 18th,NLD/URS,1948.03.02,3,E91,King's Indian
+Smyslov  Vassily V,Botvinnik  Mikhail M,1948.03.08,88,44,Draw,0,0,320,World Championship 18th,NLD/URS,1948.03.02,3,D96,"Grunfeld, Russian Variation"
+Botvinnik  Mikhail M,Reshevsky  Samuel H,1948.03.09,63,31,White,0,0,321,World Championship 18th,NLD/URS,1948.03.02,4,E51,"Nimzo-Indian, 4.e3"
+Euwe  Max,Smyslov  Vassily V,1948.03.09,84,42,Black,0,0,322,World Championship 18th,NLD/URS,1948.03.02,4,C98,"Ruy Lopez, Closed, Chigorin"
+Keres  Paul,Botvinnik  Mikhail M,1948.03.11,116,58,Black,0,0,323,World Championship 18th,NLD/URS,1948.03.02,5,A13,English
+Reshevsky  Samuel H,Euwe  Max,1948.03.11,82,41,White,0,0,324,World Championship 18th,NLD/URS,1948.03.02,5,D46,Queen's Gambit Declined Semi-Slav
+Keres  Paul,Euwe  Max,1948.03.15,67,33,Draw,0,0,325,World Championship 18th,NLD/URS,1948.03.02,6,C86,"Ruy Lopez, Worrall Attack"
+Reshevsky  Samuel H,Smyslov  Vassily V,1948.03.15,89,44,Draw,0,0,326,World Championship 18th,NLD/URS,1948.03.02,6,D17,Queen's Gambit Declined Slav
+Euwe  Max,Botvinnik  Mikhail M,1948.03.16,80,40,Draw,0,0,327,World Championship 18th,NLD/URS,1948.03.02,7,C08,"French, Tarrasch, Open, 4.ed ed"
+Smyslov  Vassily V,Keres  Paul,1948.03.16,114,57,Black,0,0,328,World Championship 18th,NLD/URS,1948.03.02,7,E02,"Catalan, Open, 5.Qa4"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1948.03.18,158,79,Draw,0,0,329,World Championship 18th,NLD/URS,1948.03.02,8,D98,"Grunfeld, Russian"
+Keres  Paul,Reshevsky  Samuel H,1948.03.18,47,23,Draw,0,0,330,World Championship 18th,NLD/URS,1948.03.02,8,C71,Ruy Lopez
+Reshevsky  Samuel H,Botvinnik  Mikhail M,1948.03.23,66,33,Draw,0,0,331,World Championship 18th,NLD/URS,1948.03.02,9,A91,Dutch Defense
+Smyslov  Vassily V,Euwe  Max,1948.03.23,139,69,White,0,0,332,World Championship 18th,NLD/URS,1948.03.02,9,C90,"Ruy Lopez, Closed"
+Euwe  Max,Reshevsky  Samuel H,1948.03.25,113,56,Draw,0,0,333,World Championship 18th,NLD/URS,1948.03.02,10,C75,"Ruy Lopez, Modern Steinitz Defense"
+Euwe  Max,Keres  Paul,1948.04.11,50,25,Black,0,0,334,World Championship 18th,NLD/URS,1948.03.02,11,C74,"Ruy Lopez, Modern Steinitz Defense"
+Smyslov  Vassily V,Reshevsky  Samuel H,1948.04.11,103,51,White,0,0,335,World Championship 18th,NLD/URS,1948.03.02,11,C75,"Ruy Lopez, Modern Steinitz Defense"
+Botvinnik  Mikhail M,Euwe  Max,1948.04.13,71,35,White,0,0,336,World Championship 18th,NLD/URS,1948.03.02,12,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+Keres  Paul,Smyslov  Vassily V,1948.04.13,84,42,Draw,0,0,337,World Championship 18th,NLD/URS,1948.03.02,12,D99,"Grunfeld Defense, Smyslov"
+Reshevsky  Samuel H,Keres  Paul,1948.04.19,126,63,Black,0,0,338,World Championship 18th,NLD/URS,1948.03.02,13,D45,Queen's Gambit Declined Semi-Slav
+Botvinnik  Mikhail M,Reshevsky  Samuel H,1948.04.18,83,41,Black,0,0,339,World Championship 18th,NLD/URS,1948.03.02,14,E29,"Nimzo-Indian, Samisch"
+Euwe  Max,Smyslov  Vassily V,1948.04.18,83,41,White,0,0,340,World Championship 18th,NLD/URS,1948.03.02,14,D99,"Grunfeld Defense, Smyslov"
+Keres  Paul,Botvinnik  Mikhail M,1948.04.20,144,72,Black,0,0,341,World Championship 18th,NLD/URS,1948.03.02,15,C08,"French, Tarrasch, Open, 4.ed ed"
+Reshevsky  Samuel H,Euwe  Max,1948.04.20,52,26,Draw,0,0,342,World Championship 18th,NLD/URS,1948.03.02,15,A13,English
+Keres  Paul,Euwe  Max,1948.04.22,67,33,White,0,0,343,World Championship 18th,NLD/URS,1948.03.02,16,C81,"Ruy Lopez, Open, Howell Attack"
+Reshevsky  Samuel H,Smyslov  Vassily V,1948.04.22,82,41,Draw,0,0,344,World Championship 18th,NLD/URS,1948.03.02,16,D19,"Queen's Gambit Declined Slav, Dutch"
+Euwe  Max,Botvinnik  Mikhail M,1948.04.25,57,28,Draw,0,0,345,World Championship 18th,NLD/URS,1948.03.02,17,C08,"French, Tarrasch, Open, 4.ed ed"
+Smyslov  Vassily V,Keres  Paul,1948.04.25,81,40,White,0,0,346,World Championship 18th,NLD/URS,1948.03.02,17,D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1948.04.27,160,80,Draw,0,0,347,World Championship 18th,NLD/URS,1948.03.02,18,D76,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O Nb6"
+Keres  Paul,Reshevsky  Samuel H,1948.04.27,81,40,Black,0,0,348,World Championship 18th,NLD/URS,1948.03.02,18,C81,"Ruy Lopez, Open, Howell Attack"
+Reshevsky  Samuel H,Botvinnik  Mikhail M,1948.05.03,94,47,Black,0,0,349,World Championship 18th,NLD/URS,1948.03.02,19,C18,"French, Winawer"
+Smyslov  Vassily V,Euwe  Max,1948.05.03,51,25,White,0,0,350,World Championship 18th,NLD/URS,1948.03.02,19,C81,"Ruy Lopez, Open, Howell Attack"
+Botvinnik  Mikhail M,Keres  Paul,1948.05.04,119,59,White,0,0,351,World Championship 18th,NLD/URS,1948.03.02,20,D06,Queen's Gambit Declined
+Euwe  Max,Reshevsky  Samuel H,1948.05.04,84,42,Black,0,0,352,World Championship 18th,NLD/URS,1948.03.02,20,E33,"Nimzo-Indian, Classical"
+Euwe  Max,Keres  Paul,1948.05.06,70,35,Black,0,0,353,World Championship 18th,NLD/URS,1948.03.02,21,E32,"Nimzo-Indian, Classical"
+Smyslov  Vassily V,Reshevsky  Samuel H,1948.05.06,145,72,Draw,0,0,354,World Championship 18th,NLD/URS,1948.03.02,21,C81,"Ruy Lopez, Open, Howell Attack"
+Botvinnik  Mikhail M,Euwe  Max,1948.05.09,28,14,Draw,0,0,355,World Championship 18th,NLD/URS,1948.03.02,22,D35,Queen's Gambit Declined
+Keres  Paul,Smyslov  Vassily V,1948.05.09,97,48,Draw,0,0,356,World Championship 18th,NLD/URS,1948.03.02,22,A16,English
+Reshevsky  Samuel H,Keres  Paul,1948.05.11,52,26,Draw,0,0,357,World Championship 18th,NLD/URS,1948.03.02,23,E32,"Nimzo-Indian, Classical"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1948.05.11,34,17,Draw,0,0,358,World Championship 18th,NLD/URS,1948.03.02,23,D22,Queen's Gambit Accepted
+Botvinnik  Mikhail M,Reshevsky  Samuel H,1948.05.13,81,40,White,0,0,359,World Championship 18th,NLD/URS,1948.03.02,24,C49,Four Knights
+Euwe  Max,Smyslov  Vassily V,1948.05.13,76,38,Black,0,0,360,World Championship 18th,NLD/URS,1948.03.02,24,D99,"Grunfeld Defense, Smyslov"
+Keres  Paul,Botvinnik  Mikhail M,1948.05.16,77,38,White,0,0,361,World Championship 18th,NLD/URS,1948.03.02,25,C15,"French, Winawer"
+Reshevsky  Samuel H,Euwe  Max,1948.05.16,71,35,White,0,0,362,World Championship 18th,NLD/URS,1948.03.02,25,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Botvinnik  Mikhail M,Bronstein  David I,1951.03.16,57,28,Draw,0,0,363,World Championship 19th,Moscow RUS,1951.03.16,1,A91,Dutch Defense
+Bronstein  David I,Botvinnik  Mikhail M,1951.03.18,97,48,Draw,0,0,364,World Championship 19th,Moscow RUS,1951.03.16,2,D87,"Grunfeld, Exchange"
+Botvinnik  Mikhail M,Bronstein  David I,1951.03.20,126,63,Draw,0,0,365,World Championship 19th,Moscow RUS,1951.03.16,3,C08,"French, Tarrasch, Open, 4.ed ed"
+Bronstein  David I,Botvinnik  Mikhail M,1951.03.23,94,47,Draw,0,0,366,World Championship 19th,Moscow RUS,1951.03.16,4,D90,Grunfeld
+Botvinnik  Mikhail M,Bronstein  David I,1951.03.25,78,39,Black,0,0,367,World Championship 19th,Moscow RUS,1951.03.16,5,E43,"Nimzo-Indian, Fischer Variation"
+Bronstein  David I,Botvinnik  Mikhail M,1951.03.26,114,57,Black,0,0,368,World Championship 19th,Moscow RUS,1951.03.16,6,B63,"Sicilian, Richter-Rauzer Attack"
+Botvinnik  Mikhail M,Bronstein  David I,1951.03.30,131,65,White,0,0,369,World Championship 19th,Moscow RUS,1951.03.16,7,A94,"Dutch, Stonewall with Ba3"
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.01,81,40,Draw,0,0,370,World Championship 19th,Moscow RUS,1951.03.16,8,D49,"Queen's Gambit Declined Semi-Slav, Meran"
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.03,82,41,Draw,0,0,371,World Championship 19th,Moscow RUS,1951.03.16,9,A91,Dutch Defense
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.06,108,54,Draw,0,0,372,World Championship 19th,Moscow RUS,1951.03.16,10,A85,"Dutch, with c4 & Nc3"
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.08,78,39,Black,0,0,373,World Championship 19th,Moscow RUS,1951.03.16,11,E17,Queen's Indian
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.10,80,40,Black,0,0,374,World Championship 19th,Moscow RUS,1951.03.16,12,A85,"Dutch, with c4 & Nc3"
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.13,112,56,Draw,0,0,375,World Championship 19th,Moscow RUS,1951.03.16,13,E44,"Nimzo-Indian, Fischer Variation, 5.Ne2"
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.15,131,65,Draw,0,0,376,World Championship 19th,Moscow RUS,1951.03.16,14,A08,King's Indian Attack
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.17,65,32,Draw,0,0,377,World Championship 19th,Moscow RUS,1951.03.16,15,C08,"French, Tarrasch, Open, 4.ed ed"
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.20,149,74,Draw,0,0,378,World Championship 19th,Moscow RUS,1951.03.16,16,A91,Dutch Defense
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.22,70,35,Black,0,0,379,World Championship 19th,Moscow RUS,1951.03.16,17,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation"
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.24,115,57,Draw,0,0,380,World Championship 19th,Moscow RUS,1951.03.16,18,D15,Queen's Gambit Declined Slav
+Botvinnik  Mikhail M,Bronstein  David I,1951.04.27,119,59,White,0,0,381,World Championship 19th,Moscow RUS,1951.03.16,19,D74,"Neo-Grunfeld, 6.cd Nxd5, 7.O-O"
+Bronstein  David I,Botvinnik  Mikhail M,1951.04.29,91,45,Draw,0,0,382,World Championship 19th,Moscow RUS,1951.03.16,20,A14,English
+Botvinnik  Mikhail M,Bronstein  David I,1951.05.04,128,64,Black,0,0,383,World Championship 19th,Moscow RUS,1951.03.16,21,E69,"King's Indian, Fianchetto, Classical Main line"
+Bronstein  David I,Botvinnik  Mikhail M,1951.05.06,75,37,White,0,0,384,World Championship 19th,Moscow RUS,1951.03.16,22,A91,Dutch Defense
+Botvinnik  Mikhail M,Bronstein  David I,1951.05.08,113,56,White,0,0,385,World Championship 19th,Moscow RUS,1951.03.16,23,D71,Neo-Grunfeld
+Bronstein  David I,Botvinnik  Mikhail M,1951.05.11,43,21,Draw,0,0,386,World Championship 19th,Moscow RUS,1951.03.16,24,D44,Queen's Gambit Declined Semi-Slav
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.03.16,116,58,Black,0,0,387,World Championship 20th,Moscow RUS,1954.03.16,1,C17,"French, Winawer, Advance"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.03.18,59,29,White,0,0,388,World Championship 20th,Moscow RUS,1954.03.16,2,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.03.20,81,40,Draw,0,0,389,World Championship 20th,Moscow RUS,1954.03.16,3,C17,"French, Winawer, Advance"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.03.23,121,60,White,0,0,390,World Championship 20th,Moscow RUS,1954.03.16,4,D22,Queen's Gambit Accepted
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.03.25,81,40,Draw,0,0,391,World Championship 20th,Moscow RUS,1954.03.16,5,D44,Queen's Gambit Declined Semi-Slav
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.03.27,67,33,Draw,0,0,392,World Championship 20th,Moscow RUS,1954.03.16,6,D86,"Grunfeld, Exchange"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.03.30,99,49,White,0,0,393,World Championship 20th,Moscow RUS,1954.03.16,7,C15,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.01,100,50,Draw,0,0,394,World Championship 20th,Moscow RUS,1954.03.16,8,D06,Queen's Gambit Declined
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.03,49,24,White,0,0,395,World Championship 20th,Moscow RUS,1954.03.16,9,C17,"French, Winawer, Advance"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.06,74,37,Black,0,0,396,World Championship 20th,Moscow RUS,1954.03.16,10,D22,Queen's Gambit Accepted
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.08,82,41,White,0,0,397,World Championship 20th,Moscow RUS,1954.03.16,11,C73,"Ruy Lopez, Modern Steinitz Defense"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.10,75,37,White,0,0,398,World Championship 20th,Moscow RUS,1954.03.16,12,D18,"Queen's Gambit Declined Slav, Dutch"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.13,82,41,Black,0,0,399,World Championship 20th,Moscow RUS,1954.03.16,13,B24,"Sicilian, Closed"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.15,66,33,Black,0,0,400,World Championship 20th,Moscow RUS,1954.03.16,14,E68,"King's Indian, Fianchetto, Classical Variation, 8.e4"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.17,72,36,Black,0,0,401,World Championship 20th,Moscow RUS,1954.03.16,15,B25,"Sicilian, Closed"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.20,89,44,White,0,0,402,World Championship 20th,Moscow RUS,1954.03.16,16,E61,King's Indian
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.22,61,30,Draw,0,0,403,World Championship 20th,Moscow RUS,1954.03.16,17,A04,Reti Opening
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.04.24,115,57,Draw,0,0,404,World Championship 20th,Moscow RUS,1954.03.16,18,E61,King's Indian
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.04.29,89,44,Draw,0,0,405,World Championship 20th,Moscow RUS,1954.03.16,19,C15,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.05.04,144,72,Black,0,0,406,World Championship 20th,Moscow RUS,1954.03.16,20,E61,King's Indian
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.05.06,79,39,Draw,0,0,407,World Championship 20th,Moscow RUS,1954.03.16,21,C15,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.05.08,90,45,Draw,0,0,408,World Championship 20th,Moscow RUS,1954.03.16,22,D83,"Grunfeld, Grunfeld Gambit"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1954.05.11,55,27,White,0,0,409,World Championship 20th,Moscow RUS,1954.03.16,23,A04,Reti Opening
+Botvinnik  Mikhail M,Smyslov  Vassily V,1954.05.13,44,22,Draw,0,0,410,World Championship 20th,Moscow RUS,1954.03.16,24,E69,"King's Indian, Fianchetto, Classical Main line"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.05,81,40,Black,0,0,411,World Championship 21th,Moscow RUS,1957.03.05,1,A36,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.03.07,90,45,Draw,0,0,412,World Championship 21th,Moscow RUS,1957.03.05,2,B66,"Sicilian, Richter-Rauzer Attack, 7...a6"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.09,81,40,Draw,0,0,413,World Championship 21th,Moscow RUS,1957.03.05,3,E66,"King's Indian, Fianchetto, Yugoslav Panno"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.03.12,81,40,Black,0,0,414,World Championship 21th,Moscow RUS,1957.03.05,4,B66,"Sicilian, Richter-Rauzer Attack, 7...a6"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.16,107,53,White,0,0,415,World Championship 21th,Moscow RUS,1957.03.05,5,E62,"King's Indian, Fianchetto"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.03.19,55,27,White,0,0,416,World Championship 21th,Moscow RUS,1957.03.05,6,D98,"Grunfeld, Russian"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.21,46,23,Draw,0,0,417,World Championship 21th,Moscow RUS,1957.03.05,7,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.03.23,81,40,White,0,0,418,World Championship 21th,Moscow RUS,1957.03.05,8,B66,"Sicilian, Richter-Rauzer Attack, 7...a6"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.26,76,38,Draw,0,0,419,World Championship 21th,Moscow RUS,1957.03.05,9,E62,"King's Indian, Fianchetto"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.03.28,94,47,Draw,0,0,420,World Championship 21th,Moscow RUS,1957.03.05,10,C98,"Ruy Lopez, Closed, Chigorin"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.03.30,46,23,Draw,0,0,421,World Championship 21th,Moscow RUS,1957.03.05,11,D79,"Neo-Grunfeld, 6.O-O, Main line"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.02,86,43,White,0,0,422,World Championship 21th,Moscow RUS,1957.03.05,12,A42,"Modern Defense, Averbakh System"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.04.04,81,40,White,0,0,423,World Championship 21th,Moscow RUS,1957.03.05,13,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.06,91,45,Draw,0,0,424,World Championship 21th,Moscow RUS,1957.03.05,14,C18,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.04.09,112,56,Draw,0,0,425,World Championship 21th,Moscow RUS,1957.03.05,15,E45,"Nimzo-Indian, 4.e3, Bronstein (Byrne) Variation"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.11,110,55,Draw,0,0,426,World Championship 21th,Moscow RUS,1957.03.05,16,C98,"Ruy Lopez, Closed, Chigorin"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.04.13,138,69,Black,0,0,427,World Championship 21th,Moscow RUS,1957.03.05,17,D73,"Neo-Grunfeld, 5.Nf3"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.18,123,61,Draw,0,0,428,World Championship 21th,Moscow RUS,1957.03.05,18,C15,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.04.20,30,15,Draw,0,0,429,World Championship 21th,Moscow RUS,1957.03.05,19,A36,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.23,83,41,White,0,0,430,World Championship 21th,Moscow RUS,1957.03.05,20,C18,"French, Winawer"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1957.04.25,26,13,Draw,0,0,431,World Championship 21th,Moscow RUS,1957.03.05,21,D79,"Neo-Grunfeld, 6.O-O, Main line"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1957.04.27,21,10,Draw,0,0,432,World Championship 21th,Moscow RUS,1957.03.05,22,C11,French
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.03.04,124,62,Black,0,0,433,World Championship 22th,Moscow RUS,1958.03.04,1,B11,"Caro-Kann, Two Knights, 3...Bg4"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.03.06,81,40,White,0,0,434,World Championship 22th,Moscow RUS,1958.03.04,2,E81,"King's Indian, Samisch"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.03.11,132,66,Black,0,0,435,World Championship 22th,Moscow RUS,1958.03.04,3,B19,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.03.13,163,81,Draw,0,0,436,World Championship 22th,Moscow RUS,1958.03.04,4,D98,"Grunfeld, Russian"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.03.18,81,40,White,0,0,437,World Championship 22th,Moscow RUS,1958.03.04,5,B72,"Sicilian, Dragon"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.03.20,97,48,White,0,0,438,World Championship 22th,Moscow RUS,1958.03.04,6,E81,"King's Indian, Samisch"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.03.22,31,15,Draw,0,0,439,World Championship 22th,Moscow RUS,1958.03.04,7,B72,"Sicilian, Dragon"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.03.25,81,40,Draw,0,0,440,World Championship 22th,Moscow RUS,1958.03.04,8,E69,"King's Indian, Fianchetto, Classical Main line"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.03.27,80,40,Draw,0,0,441,World Championship 22th,Moscow RUS,1958.03.04,9,B72,"Sicilian, Dragon"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.03.29,87,43,Draw,0,0,442,World Championship 22th,Moscow RUS,1958.03.04,10,A16,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.04.01,47,23,White,0,0,443,World Championship 22th,Moscow RUS,1958.03.04,11,D99,"Grunfeld Defense, Smyslov"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.04.03,81,40,White,0,0,444,World Championship 22th,Moscow RUS,1958.03.04,12,A12,English with b3
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.04.05,81,40,Draw,0,0,445,World Championship 22th,Moscow RUS,1958.03.04,13,D47,Queen's Gambit Declined Semi-Slav
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.04.08,135,67,White,0,0,446,World Championship 22th,Moscow RUS,1958.03.04,14,A16,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.04.10,109,54,White,0,0,447,World Championship 22th,Moscow RUS,1958.03.04,15,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.04.15,72,36,Draw,0,0,448,World Championship 22th,Moscow RUS,1958.03.04,16,A16,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.04.17,98,49,Draw,0,0,449,World Championship 22th,Moscow RUS,1958.03.04,17,B10,Caro-Kann
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.04.19,147,73,White,0,0,450,World Championship 22th,Moscow RUS,1958.03.04,18,A16,English
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.04.22,69,34,White,0,0,451,World Championship 22th,Moscow RUS,1958.03.04,19,B11,"Caro-Kann, Two Knights, 3...Bg4"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.04.29,95,47,Draw,0,0,452,World Championship 22th,Moscow RUS,1958.03.04,20,A30,"English, Symmetrical"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.05.01,45,22,Draw,0,0,453,World Championship 22th,Moscow RUS,1958.03.04,21,B34,"Sicilian, Accelerated Fianchetto"
+Botvinnik  Mikhail M,Smyslov  Vassily V,1958.05.03,76,38,Black,0,0,454,World Championship 22th,Moscow RUS,1958.03.04,22,A95,"Dutch, Stonewall"
+Smyslov  Vassily V,Botvinnik  Mikhail M,1958.05.08,81,40,Draw,0,0,455,World Championship 22th,Moscow RUS,1958.03.04,23,A05,Reti Opening
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,63,31,White,0,0,456,World Championship 23th,Moscow RUS,1960.??.??,1,C18,"French, Winawer"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,88,44,Draw,0,0,457,World Championship 23th,Moscow RUS,1960.??.??,2,A61,Benoni
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,74,37,Draw,0,0,458,World Championship 23th,Moscow RUS,1960.??.??,3,B11,"Caro-Kann, Two Knights, 3...Bg4"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,80,40,Draw,0,0,459,World Championship 23th,Moscow RUS,1960.??.??,4,E27,"Nimzo-Indian, Samisch Variation"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,85,42,Draw,0,0,460,World Championship 23th,Moscow RUS,1960.??.??,5,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,92,46,Black,0,0,461,World Championship 23th,Moscow RUS,1960.??.??,6,E69,"King's Indian, Fianchetto, Classical Main line"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,103,51,White,0,0,462,World Championship 23th,Moscow RUS,1960.??.??,7,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,81,40,White,0,0,463,World Championship 23th,Moscow RUS,1960.??.??,8,A60,Benoni Defense
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,116,58,Black,0,0,464,World Championship 23th,Moscow RUS,1960.??.??,9,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,119,59,Draw,0,0,465,World Championship 23th,Moscow RUS,1960.??.??,10,E89,"King's Indian, Samisch, Orthodox Main line"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,143,71,White,0,0,466,World Championship 23th,Moscow RUS,1960.??.??,11,D78,"Neo-Grunfeld, 6.O-O c6"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,144,72,Draw,0,0,467,World Championship 23th,Moscow RUS,1960.??.??,12,D40,"Queen's Gambit Declined, Semi-Tarrasch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,31,15,Draw,0,0,468,World Championship 23th,Moscow RUS,1960.??.??,13,A30,"English, Symmetrical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,44,22,Draw,0,0,469,World Championship 23th,Moscow RUS,1960.??.??,14,E24,"Nimzo-Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,82,41,Draw,0,0,470,World Championship 23th,Moscow RUS,1960.??.??,15,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,81,40,Draw,0,0,471,World Championship 23th,Moscow RUS,1960.??.??,16,E24,"Nimzo-Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,81,40,White,0,0,472,World Championship 23th,Moscow RUS,1960.??.??,17,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,152,76,Draw,0,0,473,World Championship 23th,Moscow RUS,1960.??.??,18,E24,"Nimzo-Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,82,41,White,0,0,474,World Championship 23th,Moscow RUS,1960.??.??,19,A87,"Dutch, Leningrad, Main Variation"
+Botvinnik  Mikhail M,Tal  Mikhail N,1960.??.??,54,27,Draw,0,0,475,World Championship 23th,Moscow RUS,1960.??.??,20,E24,"Nimzo-Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1960.??.??,34,17,Draw,0,0,476,World Championship 23th,Moscow RUS,1960.??.??,21,E19,"Queen's Indian, Old Main line, 9.Qxc3"
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.03.15,81,40,White,0,0,477,World Championship 24th,Moscow RUS,1961.03.15,1,E51,"Nimzo-Indian, 4.e3"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.03.17,89,44,White,0,0,478,World Championship 24th,Moscow RUS,1961.03.15,2,B18,"Caro-Kann, Classical"
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.03.20,85,42,White,0,0,479,World Championship 24th,Moscow RUS,1961.03.15,3,E51,"Nimzo-Indian, 4.e3"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.03.22,82,41,Draw,0,0,480,World Championship 24th,Moscow RUS,1961.03.15,4,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.03.24,146,73,Draw,0,0,481,World Championship 24th,Moscow RUS,1961.03.15,5,E51,"Nimzo-Indian, 4.e3"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.03.27,50,25,Draw,0,0,482,World Championship 24th,Moscow RUS,1961.03.15,6,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.03.29,65,32,White,0,0,483,World Championship 24th,Moscow RUS,1961.03.15,7,E24,"Nimzo-Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.03.31,57,28,White,0,0,484,World Championship 24th,Moscow RUS,1961.03.15,8,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.04.07,145,72,White,0,0,485,World Championship 24th,Moscow RUS,1961.03.15,9,A23,"English, Bremen System, Keres Variation"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.04.10,84,42,Black,0,0,486,World Championship 24th,Moscow RUS,1961.03.15,10,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.04.12,84,42,White,0,0,487,World Championship 24th,Moscow RUS,1961.03.15,11,D14,"Queen's Gambit Declined Slav, Exchange Variation"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.04.14,81,40,White,0,0,488,World Championship 24th,Moscow RUS,1961.03.15,12,C18,"French, Winawer"
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.04.17,81,40,White,0,0,489,World Championship 24th,Moscow RUS,1961.03.15,13,E85,"King's Indian, Samisch, Orthodox Variation"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.04.19,65,32,Draw,0,0,490,World Championship 24th,Moscow RUS,1961.03.15,14,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.04.21,125,62,White,0,0,491,World Championship 24th,Moscow RUS,1961.03.15,15,E81,"King's Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.04.24,180,90,Draw,0,0,492,World Championship 24th,Moscow RUS,1961.03.15,16,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.04.28,166,83,Black,0,0,493,World Championship 24th,Moscow RUS,1961.03.15,17,E81,"King's Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.05.03,82,41,Black,0,0,494,World Championship 24th,Moscow RUS,1961.03.15,18,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.05.05,150,75,Black,0,0,495,World Championship 24th,Moscow RUS,1961.03.15,19,E81,"King's Indian, Samisch"
+Tal  Mikhail N,Botvinnik  Mikhail M,1961.05.08,242,121,Draw,0,0,496,World Championship 24th,Moscow RUS,1961.03.15,20,B12,Caro-Kann Defense
+Botvinnik  Mikhail M,Tal  Mikhail N,1961.05.12,65,32,White,0,0,497,World Championship 24th,Moscow RUS,1961.03.15,21,E87,"King's Indian, Samisch, Orthodox"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.03.23,80,40,Black,0,0,498,World Championship 25th,Moscow RUS,1963.03.23,1,E35,"Nimzo-Indian, Classical, Noa Variation, 5.cd ed"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.03.25,70,35,Draw,0,0,499,World Championship 25th,Moscow RUS,1963.03.23,2,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.03.27,172,86,Draw,0,0,500,World Championship 25th,Moscow RUS,1963.03.23,3,E18,"Queen's Indian, Old Main line, 7.Nc3"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.03.30,48,24,Draw,0,0,501,World Championship 25th,Moscow RUS,1963.03.23,4,A35,"English, Symmetrical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.01,95,47,White,0,0,502,World Championship 25th,Moscow RUS,1963.03.23,5,D94,Grunfeld
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.04.03,54,27,Draw,0,0,503,World Championship 25th,Moscow RUS,1963.03.23,6,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.06,103,51,White,0,0,504,World Championship 25th,Moscow RUS,1963.03.23,7,A21,English
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.04.08,109,54,Draw,0,0,505,World Championship 25th,Moscow RUS,1963.03.23,8,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.13,110,55,Draw,0,0,506,World Championship 25th,Moscow RUS,1963.03.23,9,E08,"Catalan, Closed"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.04.15,86,43,Draw,0,0,507,World Championship 25th,Moscow RUS,1963.03.23,10,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.17,82,41,Draw,0,0,508,World Championship 25th,Moscow RUS,1963.03.23,11,D32,"Queen's Gambit Declined, Tarrasch"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.04.20,105,52,Draw,0,0,509,World Championship 25th,Moscow RUS,1963.03.23,12,D31,Queen's Gambit Declined
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.22,107,53,Draw,0,0,510,World Championship 25th,Moscow RUS,1963.03.23,13,E18,"Queen's Indian, Old Main line, 7.Nc3"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.04.24,113,56,White,0,0,511,World Championship 25th,Moscow RUS,1963.03.23,14,D31,Queen's Gambit Declined
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.04.29,115,57,White,0,0,512,World Championship 25th,Moscow RUS,1963.03.23,15,D97,"Grunfeld, Russian"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.05.01,107,53,Draw,0,0,513,World Championship 25th,Moscow RUS,1963.03.23,16,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.05.06,78,39,Draw,0,0,514,World Championship 25th,Moscow RUS,1963.03.23,17,E14,Queen's Indian
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.05.08,122,61,Black,0,0,515,World Championship 25th,Moscow RUS,1963.03.23,18,D31,Queen's Gambit Declined
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.05.11,131,65,White,0,0,516,World Championship 25th,Moscow RUS,1963.03.23,19,E19,"Queen's Indian, Old Main line, 9.Qxc3"
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.05.15,42,21,Draw,0,0,517,World Championship 25th,Moscow RUS,1963.03.23,20,D27,"Queen's Gambit Accepted, Classical"
+Petrosian  Tigran V,Botvinnik  Mikhail M,1963.05.18,19,9,Draw,0,0,518,World Championship 25th,Moscow RUS,1963.03.23,21,A16,English
+Botvinnik  Mikhail M,Petrosian  Tigran V,1963.05.20,20,10,Draw,0,0,519,World Championship 25th,Moscow RUS,1963.03.23,22,D23,Queen's Gambit Accepted
+Spassky  Boris V,Petrosian  Tigran V,1966.04.11,73,36,Draw,0,0,520,World Championship 26th,Moscow RUS,1966.04.11,1,B19,"Caro-Kann, Classical"
+Petrosian  Tigran V,Spassky  Boris V,1966.04.13,100,50,Draw,0,0,521,World Championship 26th,Moscow RUS,1966.04.11,2,D59,"Queen's Gambit Declined, Tartakower"
+Spassky  Boris V,Petrosian  Tigran V,1966.04.15,86,43,Draw,0,0,522,World Championship 26th,Moscow RUS,1966.04.11,3,D26,Queen's Gambit Accepted
+Petrosian  Tigran V,Spassky  Boris V,1966.04.18,87,43,Draw,0,0,523,World Championship 26th,Moscow RUS,1966.04.11,4,E08,"Catalan, Closed"
+Spassky  Boris V,Petrosian  Tigran V,1966.04.20,158,79,Draw,0,0,524,World Championship 26th,Moscow RUS,1966.04.11,5,B14,"Caro-Kann, Panov-Botvinnik Attack"
+Petrosian  Tigran V,Spassky  Boris V,1966.04.22,30,15,Draw,0,0,525,World Championship 26th,Moscow RUS,1966.04.11,6,D41,"Queen's Gambit Declined, Semi-Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1966.04.25,86,43,Black,0,0,526,World Championship 26th,Moscow RUS,1966.04.11,7,D03,Torre Attack (Tartakower Variation)
+Petrosian  Tigran V,Spassky  Boris V,1966.04.27,46,23,Draw,0,0,527,World Championship 26th,Moscow RUS,1966.04.11,8,A33,"English, Symmetrical"
+Spassky  Boris V,Petrosian  Tigran V,1966.04.29,51,25,Draw,0,0,528,World Championship 26th,Moscow RUS,1966.04.11,9,D42,"Queen's Gambit Declined, Semi-Tarrasch, 7.Bd3"
+Petrosian  Tigran V,Spassky  Boris V,1966.05.02,59,29,White,0,0,529,World Championship 26th,Moscow RUS,1966.04.11,10,E66,"King's Indian, Fianchetto, Yugoslav Panno"
+Spassky  Boris V,Petrosian  Tigran V,1966.05.04,51,25,Draw,0,0,530,World Championship 26th,Moscow RUS,1966.04.11,11,C10,French
+Petrosian  Tigran V,Spassky  Boris V,1966.05.06,77,38,Draw,0,0,531,World Championship 26th,Moscow RUS,1966.04.11,12,A42,"Modern Defense, Averbakh System"
+Spassky  Boris V,Petrosian  Tigran V,1966.05.11,182,91,White,0,0,532,World Championship 26th,Moscow RUS,1966.04.11,13,B19,"Caro-Kann, Classical"
+Petrosian  Tigran V,Spassky  Boris V,1966.05.13,113,56,Draw,0,0,533,World Championship 26th,Moscow RUS,1966.04.11,14,A05,Reti Opening
+Spassky  Boris V,Petrosian  Tigran V,1966.05.16,110,55,Draw,0,0,534,World Championship 26th,Moscow RUS,1966.04.11,15,B25,"Sicilian, Closed"
+Petrosian  Tigran V,Spassky  Boris V,1966.05.18,97,48,Draw,0,0,535,World Championship 26th,Moscow RUS,1966.04.11,16,B06,Robatsch
+Spassky  Boris V,Petrosian  Tigran V,1966.05.20,58,29,Draw,0,0,536,World Championship 26th,Moscow RUS,1966.04.11,17,B25,"Sicilian, Closed"
+Petrosian  Tigran V,Spassky  Boris V,1966.05.23,65,32,Draw,0,0,537,World Championship 26th,Moscow RUS,1966.04.11,18,E12,Queen's Indian
+Spassky  Boris V,Petrosian  Tigran V,1966.05.27,135,67,White,0,0,538,World Championship 26th,Moscow RUS,1966.04.11,19,C11,French
+Petrosian  Tigran V,Spassky  Boris V,1966.05.30,81,40,White,0,0,539,World Championship 26th,Moscow RUS,1966.04.11,20,E59,"Nimzo-Indian, 4.e3, Main line"
+Spassky  Boris V,Petrosian  Tigran V,1966.06.01,78,39,Draw,0,0,540,World Championship 26th,Moscow RUS,1966.04.11,21,C11,French
+Petrosian  Tigran V,Spassky  Boris V,1966.06.03,70,35,White,0,0,541,World Championship 26th,Moscow RUS,1966.04.11,22,A40,Queen's Pawn Game
+Spassky  Boris V,Petrosian  Tigran V,1966.06.06,62,31,White,0,0,542,World Championship 26th,Moscow RUS,1966.04.11,23,C11,French
+Petrosian  Tigran V,Spassky  Boris V,1966.06.08,153,76,Draw,0,0,543,World Championship 26th,Moscow RUS,1966.04.11,24,E61,King's Indian
+Spassky  Boris V,Petrosian  Tigran V,1969.04.14,112,56,Black,0,0,544,World Championship 27th,Moscow RUS,1969.04.14,1,B42,"Sicilian, Kan"
+Petrosian  Tigran V,Spassky  Boris V,1969.04.16,121,60,Draw,0,0,545,World Championship 27th,Moscow RUS,1969.04.14,2,D34,"Queen's Gambit Declined, Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1969.04.18,86,43,Draw,0,0,546,World Championship 27th,Moscow RUS,1969.04.14,3,B36,"Sicilian, Accelerated Fianchetto"
+Petrosian  Tigran V,Spassky  Boris V,1969.04.21,82,41,Black,0,0,547,World Championship 27th,Moscow RUS,1969.04.14,4,D34,"Queen's Gambit Declined, Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1969.04.23,59,29,White,0,0,548,World Championship 27th,Moscow RUS,1969.04.14,5,D41,"Queen's Gambit Declined, Semi-Tarrasch"
+Petrosian  Tigran V,Spassky  Boris V,1969.04.25,94,47,Draw,0,0,549,World Championship 27th,Moscow RUS,1969.04.14,6,D56,Queen's Gambit Declined
+Spassky  Boris V,Petrosian  Tigran V,1969.04.30,53,26,Draw,0,0,550,World Championship 27th,Moscow RUS,1969.04.14,7,D19,"Queen's Gambit Declined Slav, Dutch"
+Petrosian  Tigran V,Spassky  Boris V,1969.05.02,88,44,Black,0,0,551,World Championship 27th,Moscow RUS,1969.04.14,8,D37,Queen's Gambit Declined
+Spassky  Boris V,Petrosian  Tigran V,1969.05.05,130,65,Draw,0,0,552,World Championship 27th,Moscow RUS,1969.04.14,9,A56,Benoni Defense
+Petrosian  Tigran V,Spassky  Boris V,1969.05.09,75,37,White,0,0,553,World Championship 27th,Moscow RUS,1969.04.14,10,E48,"Nimzo-Indian, 4.e3 O-O 5.Bd3 d5"
+Spassky  Boris V,Petrosian  Tigran V,1969.05.12,111,55,Black,0,0,554,World Championship 27th,Moscow RUS,1969.04.14,11,E12,Queen's Indian
+Petrosian  Tigran V,Spassky  Boris V,1969.05.14,97,48,Draw,0,0,555,World Championship 27th,Moscow RUS,1969.04.14,12,D34,"Queen's Gambit Declined, Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1969.05.16,49,24,Draw,0,0,556,World Championship 27th,Moscow RUS,1969.04.14,13,C42,Petrov Defense
+Petrosian  Tigran V,Spassky  Boris V,1969.05.19,111,55,Draw,0,0,557,World Championship 27th,Moscow RUS,1969.04.14,14,D55,Queen's Gambit Declined
+Spassky  Boris V,Petrosian  Tigran V,1969.05.21,38,19,Draw,0,0,558,World Championship 27th,Moscow RUS,1969.04.14,15,C42,Petrov Defense
+Petrosian  Tigran V,Spassky  Boris V,1969.05.23,62,31,Draw,0,0,559,World Championship 27th,Moscow RUS,1969.04.14,16,D34,"Queen's Gambit Declined, Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1969.05.28,115,57,White,0,0,560,World Championship 27th,Moscow RUS,1969.04.14,17,B42,"Sicilian, Kan"
+Petrosian  Tigran V,Spassky  Boris V,1969.06.02,117,58,Draw,0,0,561,World Championship 27th,Moscow RUS,1969.04.14,18,D34,"Queen's Gambit Declined, Tarrasch"
+Spassky  Boris V,Petrosian  Tigran V,1969.06.04,47,23,White,0,0,562,World Championship 27th,Moscow RUS,1969.04.14,19,B94,"Sicilian, Najdorf"
+Petrosian  Tigran V,Spassky  Boris V,1969.06.09,99,49,White,0,0,563,World Championship 27th,Moscow RUS,1969.04.14,20,D55,Queen's Gambit Declined
+Spassky  Boris V,Petrosian  Tigran V,1969.06.11,105,52,White,0,0,564,World Championship 27th,Moscow RUS,1969.04.14,21,C92,"Ruy Lopez, Closed"
+Petrosian  Tigran V,Spassky  Boris V,1969.06.13,62,31,Draw,0,0,565,World Championship 27th,Moscow RUS,1969.04.14,22,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Spassky  Boris V,Petrosian  Tigran V,1969.06.16,81,40,Draw,0,0,566,World Championship 27th,Moscow RUS,1969.04.14,23,B48,"Sicilian, Taimanov Variation"
+Spassky  Boris V,Fischer  Robert J,1972.07.11,111,55,White,2660,2785,567,World Championship 28th,Reykjavik ISL,1972.07.11,1,E56,"Nimzo-Indian, 4.e3, Main line with 7...Nc6"
+Spassky  Boris V,Fischer  Robert J,1972.07.16,82,41,Black,2660,2785,568,World Championship 28th,Reykjavik ISL,1972.07.11,3,A77,"Benoni, Classical, 9...Re8, 10.Nd2"
+Fischer  Robert J,Spassky  Boris V,1972.07.18,89,44,Draw,2785,2660,569,World Championship 28th,Reykjavik ISL,1972.07.11,4,B88,"Sicilian, Fischer-Sozin Attack"
+Spassky  Boris V,Fischer  Robert J,1972.07.20,54,27,Black,2660,2785,570,World Championship 28th,Reykjavik ISL,1972.07.11,5,E41,Nimzo-Indian
+Fischer  Robert J,Spassky  Boris V,1972.07.23,81,40,White,2785,2660,571,World Championship 28th,Reykjavik ISL,1972.07.11,6,D59,"Queen's Gambit Declined, Tartakower"
+Spassky  Boris V,Fischer  Robert J,1972.07.25,97,48,Draw,2660,2785,572,World Championship 28th,Reykjavik ISL,1972.07.11,7,B97,"Sicilian, Najdorf"
+Fischer  Robert J,Spassky  Boris V,1972.07.27,73,36,White,2785,2660,573,World Championship 28th,Reykjavik ISL,1972.07.11,8,A39,"English, Symmetrical, Main line with d4"
+Spassky  Boris V,Fischer  Robert J,1972.08.01,58,29,Draw,2660,2785,574,World Championship 28th,Reykjavik ISL,1972.07.11,9,D41,"Queen's Gambit Declined, Semi-Tarrasch"
+Fischer  Robert J,Spassky  Boris V,1972.08.03,111,55,White,2785,2660,575,World Championship 28th,Reykjavik ISL,1972.07.11,10,C95,"Ruy Lopez, Closed, Breyer"
+Spassky  Boris V,Fischer  Robert J,1972.08.06,61,30,White,2660,2785,576,World Championship 28th,Reykjavik ISL,1972.07.11,11,B97,"Sicilian, Najdorf"
+Fischer  Robert J,Spassky  Boris V,1972.08.08,110,55,Draw,2785,2660,577,World Championship 28th,Reykjavik ISL,1972.07.11,12,D66,"Queen's Gambit Declined, Orthodox Defense, Bd3 line"
+Spassky  Boris V,Fischer  Robert J,1972.08.10,148,74,Black,2660,2785,578,World Championship 28th,Reykjavik ISL,1972.07.11,13,B04,"Alekhine's Defense, Modern"
+Fischer  Robert J,Spassky  Boris V,1972.08.15,80,40,Draw,2785,2660,579,World Championship 28th,Reykjavik ISL,1972.07.11,14,D37,Queen's Gambit Declined
+Spassky  Boris V,Fischer  Robert J,1972.08.17,86,43,Draw,2660,2785,580,World Championship 28th,Reykjavik ISL,1972.07.11,15,B99,"Sicilian, Najdorf, 7...Be7 Main line"
+Fischer  Robert J,Spassky  Boris V,1972.08.20,120,60,Draw,2785,2660,581,World Championship 28th,Reykjavik ISL,1972.07.11,16,C69,"Ruy Lopez, Exchange, Gligoric Variation, 6.d4"
+Spassky  Boris V,Fischer  Robert J,1972.08.22,89,44,Draw,2660,2785,582,World Championship 28th,Reykjavik ISL,1972.07.11,17,B09,"Pirc, Austrian Attack"
+Fischer  Robert J,Spassky  Boris V,1972.08.24,94,47,Draw,2785,2660,583,World Championship 28th,Reykjavik ISL,1972.07.11,18,B69,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 11.Bxf6"
+Spassky  Boris V,Fischer  Robert J,1972.08.27,80,40,Draw,2660,2785,584,World Championship 28th,Reykjavik ISL,1972.07.11,19,B05,"Alekhine's Defense, Modern"
+Fischer  Robert J,Spassky  Boris V,1972.08.29,108,54,Draw,2785,2660,585,World Championship 28th,Reykjavik ISL,1972.07.11,20,B68,"Sicilian, Richter-Rauzer Attack, 7...a6 Defense, 9...Be7"
+Spassky  Boris V,Fischer  Robert J,1972.08.31,81,40,Black,2660,2785,586,World Championship 28th,Reykjavik ISL,1972.07.11,21,B46,"Sicilian, Taimanov Variation"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.07.18,36,18,Draw,2665,2725,587,World Championship 29th,Baguio City PHI,1978.07.??,1,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.07.20,57,28,Draw,2725,2665,588,World Championship 29th,Baguio City PHI,1978.07.??,2,C82,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.07.22,60,30,Draw,2665,2725,589,World Championship 29th,Baguio City PHI,1978.07.??,3,E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.07.25,37,18,Draw,2725,2665,590,World Championship 29th,Baguio City PHI,1978.07.??,4,C82,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.07.27,247,123,Draw,2665,2725,591,World Championship 29th,Baguio City PHI,1978.07.??,5,E42,"Nimzo-Indian, 4.e3 c5, 5.Ne2 (Rubinstein)"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.07.29,45,22,Draw,2725,2665,592,World Championship 29th,Baguio City PHI,1978.07.??,6,A29,"English, Four Knights, Kingside Fianchetto"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.01,83,41,Draw,2665,2725,593,World Championship 29th,Baguio City PHI,1978.07.??,7,E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.08.03,55,27,White,2725,2665,594,World Championship 29th,Baguio City PHI,1978.07.??,8,C80,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.05,82,41,Draw,2665,2725,595,World Championship 29th,Baguio City PHI,1978.07.??,9,D37,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1978.08.08,87,43,Draw,2725,2665,596,World Championship 29th,Baguio City PHI,1978.07.??,10,C80,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.10,100,50,White,2665,2725,597,World Championship 29th,Baguio City PHI,1978.07.??,11,B20,Sicilian
+Karpov  Anatoly,Korchnoi  Viktor L,1978.08.15,88,44,Draw,2725,2665,598,World Championship 29th,Baguio City PHI,1978.07.??,12,C81,"Ruy Lopez, Open, Howell Attack"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.17,122,61,Black,2665,2725,599,World Championship 29th,Baguio City PHI,1978.07.??,13,D53,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1978.08.19,99,49,White,2725,2665,600,World Championship 29th,Baguio City PHI,1978.07.??,14,C82,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.22,49,24,Draw,2665,2725,601,World Championship 29th,Baguio City PHI,1978.07.??,15,E05,"Catalan, Open, Classical line"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.08.24,84,42,Draw,2725,2665,602,World Championship 29th,Baguio City PHI,1978.07.??,16,C08,"French, Tarrasch, Open, 4.ed ed"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.08.26,78,39,Black,2665,2725,603,World Championship 29th,Baguio City PHI,1978.07.??,17,E47,"Nimzo-Indian, 4.e3 O-O 5.Bd3"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.02,128,64,Draw,2725,2665,604,World Championship 29th,Baguio City PHI,1978.07.??,18,B08,"Pirc, Classical"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.09.07,77,38,Draw,2665,2725,605,World Championship 29th,Baguio City PHI,1978.07.??,19,E06,"Catalan, Closed, 5.Nf3"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.09,126,63,Draw,2725,2665,606,World Championship 29th,Baguio City PHI,1978.07.??,20,B15,Caro-Kann
+Korchnoi  Viktor L,Karpov  Anatoly,1978.09.12,119,59,White,2665,2725,607,World Championship 29th,Baguio City PHI,1978.07.??,21,D37,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.14,128,64,Draw,2725,2665,608,World Championship 29th,Baguio City PHI,1978.07.??,22,C08,"French, Tarrasch, Open, 4.ed ed"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.09.16,83,41,Draw,2665,2725,609,World Championship 29th,Baguio City PHI,1978.07.??,23,D37,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.19,90,45,Draw,2725,2665,610,World Championship 29th,Baguio City PHI,1978.07.??,24,C83,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.09.23,160,80,Draw,2665,2725,611,World Championship 29th,Baguio City PHI,1978.07.??,25,A22,English
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.26,54,27,Draw,2725,2665,612,World Championship 29th,Baguio City PHI,1978.07.??,26,A21,English
+Korchnoi  Viktor L,Karpov  Anatoly,1978.09.28,81,40,Black,2665,2725,613,World Championship 29th,Baguio City PHI,1978.07.??,27,A29,"English, Four Knights, Kingside Fianchetto"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.09.30,122,61,Black,2725,2665,614,World Championship 29th,Baguio City PHI,1978.07.??,28,C82,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.10.07,157,78,White,2665,2725,615,World Championship 29th,Baguio City PHI,1978.07.??,29,A19,"English, Mikenas-Carls, Sicilian Variation"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.10.10,82,41,Draw,2725,2665,616,World Championship 29th,Baguio City PHI,1978.07.??,30,A34,"English, Symmetrical"
+Korchnoi  Viktor L,Karpov  Anatoly,1978.10.12,141,70,White,2665,2725,617,World Championship 29th,Baguio City PHI,1978.07.??,31,D36,"Queen's Gambit Declined, Exchange, Positional line, 6.Qc2"
+Karpov  Anatoly,Korchnoi  Viktor L,1978.10.17,82,41,White,2725,2665,618,World Championship 29th,Baguio City PHI,1978.07.??,32,A43,Old Benoni
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.01,86,43,Black,2695,2700,619,World Championship 30th,Meran ITA,1981.10.??,1,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Korchnoi  Viktor L,1981.10.03,113,56,White,2700,2695,620,World Championship 30th,Meran ITA,1981.10.??,2,C67,Ruy Lopez
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.05,81,40,Draw,2695,2700,621,World Championship 30th,Meran ITA,1981.10.??,3,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Korchnoi  Viktor L,1981.10.08,105,52,White,2700,2695,622,World Championship 30th,Meran ITA,1981.10.??,4,C42,Petrov Defense
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.12,89,44,Draw,2695,2700,623,World Championship 30th,Meran ITA,1981.10.??,5,D53,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.10.15,82,41,Black,2700,2695,624,World Championship 30th,Meran ITA,1981.10.??,6,C82,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.17,61,30,White,2695,2700,625,World Championship 30th,Meran ITA,1981.10.??,7,D53,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.10.22,167,83,Draw,2700,2695,626,World Championship 30th,Meran ITA,1981.10.??,8,C54,Giuoco Piano
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.24,86,43,Black,2695,2700,627,World Championship 30th,Meran ITA,1981.10.??,9,D53,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.10.29,63,31,Draw,2700,2695,628,World Championship 30th,Meran ITA,1981.10.??,10,C54,Giuoco Piano
+Korchnoi  Viktor L,Karpov  Anatoly,1981.10.31,70,35,Draw,2695,2700,629,World Championship 30th,Meran ITA,1981.10.??,11,D37,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.11.02,93,46,Draw,2700,2695,630,World Championship 30th,Meran ITA,1981.10.??,12,A16,English
+Korchnoi  Viktor L,Karpov  Anatoly,1981.11.05,82,41,White,2695,2700,631,World Championship 30th,Meran ITA,1981.10.??,13,D31,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.11.09,91,45,White,2700,2695,632,World Championship 30th,Meran ITA,1981.10.??,14,C80,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1981.11.12,80,40,Draw,2695,2700,633,World Championship 30th,Meran ITA,1981.10.??,15,A29,"English, Four Knights, Kingside Fianchetto"
+Karpov  Anatoly,Korchnoi  Viktor L,1981.11.14,84,42,Draw,2700,2695,634,World Championship 30th,Meran ITA,1981.10.??,16,C80,"Ruy Lopez, Open"
+Korchnoi  Viktor L,Karpov  Anatoly,1981.11.16,46,23,Draw,2695,2700,635,World Championship 30th,Meran ITA,1981.10.??,17,D53,Queen's Gambit Declined
+Karpov  Anatoly,Korchnoi  Viktor L,1981.11.18,81,40,White,2700,2695,636,World Championship 30th,Meran ITA,1981.10.??,18,C80,"Ruy Lopez, Open"
+Karpov  Anatoly,Kasparov  Gary,1984.09.10,72,36,Draw,2705,2715,637,World Championship 31th,Moscow RUS,1984.09.10,1,B81,"Sicilian, Scheveningen, Keres Attack"
+Kasparov  Gary,Karpov  Anatoly,1984.09.12,93,46,Draw,2715,2705,638,World Championship 31th,Moscow RUS,1984.09.10,2,E17,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.09.17,61,30,White,2705,2715,639,World Championship 31th,Moscow RUS,1984.09.10,3,B44,Sicilian
+Kasparov  Gary,Karpov  Anatoly,1984.09.21,88,44,Draw,2715,2705,640,World Championship 31th,Moscow RUS,1984.09.10,4,E15,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.09.24,42,21,Draw,2705,2715,641,World Championship 31th,Moscow RUS,1984.09.10,5,B85,"Sicilian, Scheveningen, Classical"
+Kasparov  Gary,Karpov  Anatoly,1984.09.26,140,70,Black,2715,2705,642,World Championship 31th,Moscow RUS,1984.09.10,6,E15,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.09.28,83,41,White,2705,2715,643,World Championship 31th,Moscow RUS,1984.09.10,7,D34,"Queen's Gambit Declined, Tarrasch"
+Kasparov  Gary,Karpov  Anatoly,1984.10.03,39,19,Draw,2715,2705,644,World Championship 31th,Moscow RUS,1984.09.10,8,E05,"Catalan, Open, Classical line"
+Karpov  Anatoly,Kasparov  Gary,1984.10.05,139,69,White,2705,2715,645,World Championship 31th,Moscow RUS,1984.09.10,9,D34,"Queen's Gambit Declined, Tarrasch"
+Kasparov  Gary,Karpov  Anatoly,1984.10.08,29,14,Draw,2715,2705,646,World Championship 31th,Moscow RUS,1984.09.10,10,E12,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.10.10,81,40,Draw,2705,2715,647,World Championship 31th,Moscow RUS,1984.09.10,11,A30,"English, Symmetrical"
+Kasparov  Gary,Karpov  Anatoly,1984.10.12,41,20,Draw,2715,2705,648,World Championship 31th,Moscow RUS,1984.09.10,12,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1984.10.15,66,33,Draw,2705,2715,649,World Championship 31th,Moscow RUS,1984.09.10,13,A30,"English, Symmetrical"
+Kasparov  Gary,Karpov  Anatoly,1984.10.17,31,15,Draw,2715,2705,650,World Championship 31th,Moscow RUS,1984.09.10,14,E15,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.10.19,186,93,Draw,2705,2715,651,World Championship 31th,Moscow RUS,1984.09.10,15,E15,Queen's Indian
+Kasparov  Gary,Karpov  Anatoly,1984.10.22,70,35,Draw,2715,2705,652,World Championship 31th,Moscow RUS,1984.09.10,16,E15,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.10.24,44,22,Draw,2705,2715,653,World Championship 31th,Moscow RUS,1984.09.10,17,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Kasparov  Gary,Karpov  Anatoly,1984.10.26,43,21,Draw,2715,2705,654,World Championship 31th,Moscow RUS,1984.09.10,18,E15,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.10.29,88,44,Draw,2705,2715,655,World Championship 31th,Moscow RUS,1984.09.10,19,D55,Queen's Gambit Declined
+Kasparov  Gary,Karpov  Anatoly,1984.10.31,29,14,Draw,2715,2705,656,World Championship 31th,Moscow RUS,1984.09.10,20,A30,"English, Symmetrical"
+Karpov  Anatoly,Kasparov  Gary,1984.11.02,61,30,Draw,2705,2715,657,World Championship 31th,Moscow RUS,1984.09.10,21,D53,Queen's Gambit Declined
+Kasparov  Gary,Karpov  Anatoly,1984.11.05,39,19,Draw,2715,2705,658,World Championship 31th,Moscow RUS,1984.09.10,22,E05,"Catalan, Open, Classical line"
+Karpov  Anatoly,Kasparov  Gary,1984.11.12,44,22,Draw,2705,2715,659,World Championship 31th,Moscow RUS,1984.09.10,23,D53,Queen's Gambit Declined
+Kasparov  Gary,Karpov  Anatoly,1984.11.16,33,16,Draw,2715,2705,660,World Championship 31th,Moscow RUS,1984.09.10,24,A33,"English, Symmetrical"
+Karpov  Anatoly,Kasparov  Gary,1984.11.19,42,21,Draw,2705,2715,661,World Championship 31th,Moscow RUS,1984.09.10,25,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Kasparov  Gary,Karpov  Anatoly,1984.11.21,46,23,Draw,2715,2705,662,World Championship 31th,Moscow RUS,1984.09.10,26,A33,"English, Symmetrical"
+Karpov  Anatoly,Kasparov  Gary,1984.11.23,117,58,White,2705,2715,663,World Championship 31th,Moscow RUS,1984.09.10,27,D55,Queen's Gambit Declined
+Kasparov  Gary,Karpov  Anatoly,1984.11.28,49,24,Draw,2715,2705,664,World Championship 31th,Moscow RUS,1984.09.10,28,C42,Petrov Defense
+Karpov  Anatoly,Kasparov  Gary,1984.12.03,26,13,Draw,2705,2715,665,World Championship 31th,Moscow RUS,1984.09.10,29,D47,Queen's Gambit Declined Semi-Slav
+Kasparov  Gary,Karpov  Anatoly,1984.12.05,40,20,Draw,2715,2705,666,World Championship 31th,Moscow RUS,1984.09.10,30,C42,Petrov Defense
+Karpov  Anatoly,Kasparov  Gary,1984.12.07,70,35,Draw,2705,2715,667,World Championship 31th,Moscow RUS,1984.09.10,31,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Kasparov  Gary,Karpov  Anatoly,1984.12.12,81,40,White,2715,2705,668,World Championship 31th,Moscow RUS,1984.09.10,32,E12,Queen's Indian
+Karpov  Anatoly,Kasparov  Gary,1984.12.17,39,19,Draw,2705,2715,669,World Championship 31th,Moscow RUS,1984.09.10,33,D45,Queen's Gambit Declined Semi-Slav
+Kasparov  Gary,Karpov  Anatoly,1984.12.19,40,20,Draw,2715,2705,670,World Championship 31th,Moscow RUS,1984.09.10,34,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1984.12.26,34,17,Draw,2705,2715,671,World Championship 31th,Moscow RUS,1984.09.10,35,B64,"Sicilian, Richter-Rauzer Attack"
+Kasparov  Gary,Karpov  Anatoly,1984.12.28,81,40,Draw,2715,2705,672,World Championship 31th,Moscow RUS,1984.09.10,36,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1985.01.02,30,15,Draw,2705,2715,673,World Championship 31th,Moscow RUS,1984.09.10,37,B63,"Sicilian, Richter-Rauzer Attack"
+Kasparov  Gary,Karpov  Anatoly,1985.01.04,50,25,Draw,2715,2705,674,World Championship 31th,Moscow RUS,1984.09.10,38,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1985.01.07,96,48,Draw,2705,2715,675,World Championship 31th,Moscow RUS,1984.09.10,39,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Kasparov  Gary,Karpov  Anatoly,1985.01.09,140,70,Draw,2715,2705,676,World Championship 31th,Moscow RUS,1984.09.10,40,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1985.01.14,141,70,Draw,2705,2715,677,World Championship 31th,Moscow RUS,1984.09.10,41,C42,Petrov Defense
+Kasparov  Gary,Karpov  Anatoly,1985.01.16,52,26,Draw,2715,2705,678,World Championship 31th,Moscow RUS,1984.09.10,42,D58,"Queen's Gambit Declined, Tartakower (Makagonov-Bondarevsky) System"
+Karpov  Anatoly,Kasparov  Gary,1985.01.18,42,21,Draw,2705,2715,679,World Championship 31th,Moscow RUS,1984.09.10,43,B84,"Sicilian, Scheveningen"
+Kasparov  Gary,Karpov  Anatoly,1985.01.21,75,37,Draw,2715,2705,680,World Championship 31th,Moscow RUS,1984.09.10,44,C92,"Ruy Lopez, Closed"
+Karpov  Anatoly,Kasparov  Gary,1985.01.23,72,36,Draw,2705,2715,681,World Championship 31th,Moscow RUS,1984.09.10,45,B85,"Sicilian, Scheveningen, Classical"
+Kasparov  Gary,Karpov  Anatoly,1985.01.28,82,41,Draw,2715,2705,682,World Championship 31th,Moscow RUS,1984.09.10,46,C92,"Ruy Lopez, Closed"
+Karpov  Anatoly,Kasparov  Gary,1985.01.30,64,32,Black,2705,2715,683,World Championship 31th,Moscow RUS,1984.09.10,47,D52,Queen's Gambit Declined
+Kasparov  Gary,Karpov  Anatoly,1985.02.08,133,66,White,2715,2705,684,World Championship 31th,Moscow RUS,1984.09.10,48,C42,Petrov Defense
